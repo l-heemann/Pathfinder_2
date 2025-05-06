@@ -1,0 +1,690 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+GY5^6]gdJC	Basic	Pathfinder_2	A character gets [BLANK] actions and 1 reaction per turn.	A character gets 3 actions and 1 reaction per turn.	Rule
+Lxj+eW@0f~	Basic	Pathfinder_2	A character gets 3 actions and [BLANK] per turn.	A character gets 3 actions and 1 reaction per turn.	Rule
+Et1@*v/P2i	Basic	Pathfinder_2	A difficulty check (DC) against a statistics is BLANK	A difficulty check (DC) against a statistics is 10 + any modified you'd add to a d20 roll for that statistic	Rule
+E(9sDy2r-w	Basic	Pathfinder_2	If you are expert in a skill, your proficiency modifier is BLANK	If you are expert in a skill, your proficiency modifier is your character level plus 4	Rule
+Q|vVfKO)e(	Basic	Pathfinder_2	If you are master in a skill, your proficiency modifier is BLANK	If you are master in a skill, your proficiency modifier is your level plus 6	Rule
+mM7J~2QdCr	Basic	Pathfinder_2	For initiative you will typically make a BLANK check	For initiative you will typically make a Perception check	Rule
+s$E8qRJ<}h	Basic	Pathfinder_2	Humans get ability boosts to BLANK	Humans get ability boosts to two free	Rule
+CnUD[N*N3f	Basic	Pathfinder_2	A character's starting hit points is normally....	Their ancestry HP plus their class HP plus Con modifier	Rule
+dO6VGi&m3(	Basic	Pathfinder_2	"""To calculate her AC,  BLANK"""	To calculate her AC, add <br><ul><li>10 </li><li>Dexterity modifier (up to her armor’s Dexterity modifier cap)</li><li>proficiency modifier with her armor </li><li>armor’s item bonus to AC</li><li>any other bonuses and penalties</li></ul>	Rule
+eg$yRsBw,O	Basic	Pathfinder_2	"""If she is carrying a total amount of Bulk that equals or exceeds BLANK, she is encumbered."""	"""If she is carrying a total amount of Bulk that equals or exceeds 5 plus her Strength modifier, she is encumbered."""	Rule
+vn&ZxsTB*_	Basic	Pathfinder_2	A character cannot carry ...	She cannot carry a total amount of Bulk that exceeds 10 plus her Strength modifier.	Rule
+g:/PWt$P{>	Basic	Pathfinder_2	Every BLANK light items makes one bulk	10	Rule
+P5;lX[Wo&I	Basic	Pathfinder_2	By default, the damage dealt by melee strikes adds...	Your character's strength modified	Rule
+rlP~9)]9:7	Basic	Pathfinder_2	If a ranged weapon has the thrown modifier, you add [BLANK] to its damage	Your strength modifier	Rule
+dwirfj3m.+	Basic	Pathfinder_2	If a ranged weapon has the propulsive modifier, you add [BLANK] to its damage	Half your strength modifier	Rule
+o`-:R(`=P]	Basic	Pathfinder_2	Your perception modifier equals	Your proficiency in Perception plus your Wisdom	Rule
+zp)xN8[oMw	Basic	Pathfinder_2	An ability boost increase's a character's ability by	2, unless the ability is already 18 or higher, in which case it goes up by 1	Rule
+n]03/v,sWx	Basic	Pathfinder_2	Pathfinder also includes BLANK, which is a secret language.	Pathfinder also includes Druidic, which is a secret language.	Rule
+c^UNbD}KG~	Basic	Pathfinder_2	Identify magic is a BLANK use of the Arcana skill	Trained	Rule
+o.g<Nu?x<<	Basic	Pathfinder_2	The only trained-only use of Athletics is...	Disarm	Rule
+pG|Ye([d`A	Basic	Pathfinder_2	The only untrained use of Crafting is...	Repair	Rule
+p*OgoL*=Ah	Basic	Pathfinder_2	The trained-only combat use of deception is ...	Feint<br><br>Critical Success You throw your enemy's defenses against you entirely off. The target is off-guard against melee attacks that you attempt against it until the end of your next turn.<br>Success Your foe is fooled, but only momentarily. The target is off-guard against the next melee attack that you attempt against it before the end of your current turn.<br>Critical Failure Your feint backfires. You are off-guard against melee attacks the target attempts against you until the end of your next turn.	Rule
+"AT[cx_F>P#"	Basic	Pathfinder_2	The trained-only use of Lore is...	Practice a trade	Rule
+kybq<}nG=S	Basic	Pathfinder_2	The untrained use of Medicine is...	Administer first aid	Rule
+.kzybnUGw	Basic	Pathfinder_2	Subsist on the streets is a [BLANK] use of the Society skill	Untrained	Rule
+A=L&:3lx;m	Basic	Pathfinder_2	Create Forgery is a trained use of the BLANK skill	Society	Rule
+CDbnV09rGs	Basic	Pathfinder_2	Track and Cover Tracks are BLANK uses of the Survival skill	Trained	Rule
+jAmu}Re/5;	Basic	Pathfinder_2	How many coins fit in 1 Bulk?	1000	Rule
+ByT&ClaVS3	Basic	Pathfinder_2	If you are encumbered your speed is BLANK	Reduced by 10' to a minimum of 5	Rule
+QF-&9/:F2i	Basic	Pathfinder_2	An item weighing BLANK is 1 Bulk	5-10 lbs	Rule
+hK~38;$/QM	Basic	Pathfinder_2	It takes BLANK to remove any armor	1 minute	Rule
+w$4x8_-OIc	Basic	Pathfinder_2	An item's hardness is...	How much it reduces any damage to it by	Rule
+PBqIT.8NI&	Basic	Pathfinder_2	Broken armor...	Imposes a penalty to AC: -1 light, -2 medium, -3 heavy	Rule
+"evm*m#T@VC"	Basic	Pathfinder_2	Armor always protects you while you’re wearing it, but you have to BLANK[=shield] in order for it to improve your AC for that round.	Spend an action to Raise a Shield	Rule
+qWY=Gw2hPZ	Basic	Pathfinder_2	 If you’re using both armor and a shield, apply the BLANK of the two proficiency modifiers.	If you’re using both armor and a shield, apply the lower of the two proficiency modifiers.	Rule
+pVXmir3.Q,	Basic	Pathfinder_2	If you are not wearing armor, then when calculating AC, use your proficiency in BLANK	Unarmored defense	Rule
+bn{i3e-~QP	Basic	Pathfinder_2	An armor's check penalty is an untyped penalty to BLANK, except for those that have the attack trait.	An armor's check penalty is an untyped penalty to Strength-, Dexterity-, and Constitution-based skill checks, except for those that have the attack trait.	Rule
+Kn|EtYw{]%	Basic	Pathfinder_2	An armor's check penalty is an untyped penalty to Strength-, Dexterity-, and Constitution-based skill checks, except for BLANK	An armor's check penalty is an untyped penalty to Strength-, Dexterity-, and Constitution-based skill checks, except for those that have the attack trait.	Rule
+Jf$gd>p.XE	Basic	Pathfinder_2	If armor is clumsy...	This armor’s Dexterity modifier cap also applies to Reflexsaves and to all Dexterity-based skill and ability checks thatdon’t have the attack trait.	Rule
+Fwd?l+M1DI	Basic	Pathfinder_2	If armor is noisy...	It gives a -1 penalty to stealth checks	Rule
+vKZHT7BqLm	Basic	Pathfinder_2	Does a shield require use of a hand?	Yes	Rule
+JI)NA_+osP	Basic	Pathfinder_2	The AC bonus from a shield is a BLANK bonus	Circumstance	Rule
+vZTP1,a,od	Basic	Pathfinder_2	While you have a shield raise, you can use the Shield Block reaction to BLANK	Reduce the damage you take by the shield's hardness<br><br>Any remaining damage is dealt both to you and the shield	Rule
+z7GBw{]E=R	Basic	Pathfinder_2	If you attack with your shield, treat it as an attack with BLANK	An improvised weapon	Rule
+o9kNB`s[`Q	Basic	Pathfinder_2	The damage done by a shield bash is...	1d3 for a light shield, 1d4 for heavy (blugeoning)	Rule
+Frot[ct:D&	Basic	Pathfinder_2	You can add Dex rather than Str to your weapon proficiency if...	"The weapon has the ""finesse"" trait"	Rule
+rDqpQP+Qv?	Basic	Pathfinder_2	The multiple attack penalty values are	-5 and -10	Rule
+q;*<)GUj]8	Basic	Pathfinder_2	Does the multiple attack penalty apply to reactions?	No	Rule
+nh*Wr]n{BA	Basic	Pathfinder_2	When dealing damage in melee you add your...	Strength modifier	Rule
+xPtH*r@nt6	Basic	Pathfinder_2	You score a critical hit if you	Exceed the target by 10<br>Rolling 20 on the dice increases the degree of success by one, usually success->crit	Rule
+E-VVI{Q^2/	Basic	Pathfinder_2	If you critically succeed at a strike, your attack ...	Deals double damage	Rule
+OW~/Jv24Gs	Basic	Pathfinder_2	Attacks beyond a targets range take a BLANK penalty per range increment	-2 (untyped)	Rule
+HT4Z<`TYpt	Basic	Pathfinder_2	You can't do a range attack with range penalty worse than BLANK	-10	Rule
+nrm|)e$7=Q	Basic	Pathfinder_2	A weapon with the agile trait...	Has a multiple attack penalty of -4, -8	Rule
+uZM:$Brp)7	Basic	Pathfinder_2	A weapon with the deadly trait...	Adds an extra damage die of the specified type to critical hits	Rule
+K!s{$L@r&0	Basic	Pathfinder_2	A weapon that has the Disarm trait...	Will let you attempt the Disarm action from the Athletics skill even without a free hand.	Rule
+OHeguJZ=m1	Basic	Pathfinder_2	A weapon that has the fatal trait...	Increases all its dice to the specified size on critical hits and adds an extra die	Rule
+eGL4,vQ-GH	Basic	Pathfinder_2	A weapon which has the finesse trait...	Lets you use Dex as an attack modifier instead of Str.<br>You stills add strength to determine damage	Rule
+Hu|u??F,xB	Basic	Pathfinder_2	A weapon which has the forceful trait...	"Adds a circumstance bonus=# damage dice to 2nd attack, and double that to third"	Rule
+hw5+^P?[,n	Basic	Pathfinder_2	A weapon with the parry trait...	Allows you to use an action to Parry, giving +1 circumstance bonus to AC until the start of your next turn	Rule
+myp9^mjvFy	Basic	Pathfinder_2	A weapon with the reach trait...	Can strike 10 feet away	Rule
+t@{dO=R$C!	Basic	Pathfinder_2	A weapon with the Shove trait...	Lets you do the Shove use of Athletics without a free hand	Rule
+zu,IKq1E?1	Basic	Pathfinder_2	A weapon with the Sweep trait...	When attacking with this weapon, add +1 circumstance bonus if you already attacked a different target with this weapon this turn	Rule
+sZHMq^Eh?H	Basic	Pathfinder_2	A weapon with the Trip trait...	Let's you do the Trip use of Athletics even without a free hand	Rule
+c!F!027XHg	Basic	Pathfinder_2	A weapon with the volley trait...	Is less effective at close targets. Take a -2 circumstance bonus against targets below the specified distance	Rule
+uCaXPm=g:.	Basic	Pathfinder_2	The spellcasting modifier for innate spells is BLANK unless otherwise specified	Cha	Rule
+w5an?>%$?8	Basic	Pathfinder_2	The actions available to a summoned creature are...	2 actions per turn, no reactions	Rule
+faf$b:945d	Basic	Pathfinder_2	If you don't concentrate on a summoned creature...	It takes no action that turn	Rule
+uwT8[Xz3.3	Basic	Pathfinder_2	Your spell will be disrupted...	If you take damage &gt;= 1/2 your level as a reaction to casting a spell or while concentrating on the spell	Rule
+eL{S/3tria	Basic	Pathfinder_2	If you gain multiple bonuses of the same type, BLANK	If you gain multiple bonuses of the same type, only the highest bonus applies	Rule
+e~sMMVJq@c	Basic	Pathfinder_2	If you gain multiple circumstance, conditional, or item penalties, BLANK	If you gain multiple circumstance, conditional, or item penalties, only the worst penalty of each type applies	Rule
+"lC@z5c6,,#"	Basic	Pathfinder_2	When a creature has a weakness to a certain type of damage or damage from a certain source,BLANK	When a creature has a weakness to a certain type of damage or damage from a certain source, increase that damage by the amount of the creature’s weakness	Rule
+PD%evHhDH/	Basic	Pathfinder_2	A creature with resistance BLANK	A creature with resistance reduces damage dealt to it by the amount listed in its resistance entry	Rule
+Jf6HzE&?Zf	Basic	Pathfinder_2	When more than one effect would multiply the same number, you don’t multiply more than once. Instead, BLANK	When more than one effect would multiply the same number, you don’t multiply more than once. Instead, you combine all the multipliers into a single multiplier, with each multiple after the first adding 1 less than its value.	Rule
+I3?8Ad-fE:	Basic	Pathfinder_2	When you’re affected by the same thing multiple times, only one instance applies, using the higher level of the effects, or the newer effect if the two are equivalent in level.	When you’re affected by the same thing multiple times, BLANK	Rule
+u`ZAW@3(vo	Basic	Pathfinder_2	Creatures and objects in dim light are BLANK	Creatures and objects in dim light are concealed	Rule
+Pnc9]+;I*E	Basic	Pathfinder_2	A creature or object within darkness is considered BLANK	A creature or object within darkness is considered unseen	Rule
+s2.75ho2GW	Basic	Pathfinder_2	If a creature can see into a lit area, it can target creatures within that lit area, but BLANK	If a creature can see into a lit area, it can target creatures within that lit area, but it treats such targets as concealed	Rule
+m2[%fqQ@!>	Basic	Pathfinder_2	When you target a creature that’s concealed from you, BLANK	When you target a creature that’s concealed from you, before you roll to determine your effect, you must attempt a DC 5 flat check. If you fail that check, you don’t affect the target.	Rule
+o:m9[r0$t5	Basic	Pathfinder_2	When targeting a creature that you sense, BLANK	When targeting a creature that you sense, before you roll to determine your effect, you must attempt a DC 11 flat check. If you fail that check, you don’t affect the target. You’re still flat-footed to the creature whether you successfully target it or not.	Rule
+gP5u&%=}rX	Basic	Pathfinder_2	 Monthly cost-of-living - comfortable	4 gp	Rule
+LgM%V.0-Fr	Basic	Pathfinder_2	" Monthly cost-of-living ""fine"""	130 GP	Rule
+L>~m:)lt~B	Basic	Pathfinder_2	 Monthly cost-of-living, extravagant	430 gp	Rule
+zi!0lR*W?&	PF2E Cloze	Pathfinder_2	How many actions does an ordinary animal get for one Handle an Animal Action? &nbsp; {{c1::1}}		Rule
+M!7{Y!&Isy	PF2E Cloze	Pathfinder_2	How many actions does an animal companion get for one Handle an Animal Action? &nbsp; {{c1::2}}		Rule
+Vw~EE	Basic	Pathfinder_2	 who is the lawful neutral God of cities law merchants and wealth?	Abadar	Lore::Gods
+4YZ61	Basic	Pathfinder_2	 who is the lawful evil god of contracts, pride, slavery, and tyranny?	Asmodeus	Lore::Gods
+~bG;T	Basic	Pathfinder_2	 who is the chaotic neutral goddess of lust, revenge, and trickery?	Calistria	Lore::Gods
+weFd8	Basic	Pathfinder_2	 who is the chaotic good God of ale, bravery, freedom, and wine?	Cayden Cailean	Lore::Gods
+8^[AV	Basic	Pathfinder_2	 who is the chaotic good goddess of dreams lock stars and travelers?	Desna	Lore::Gods
+@b&HG	Basic	Pathfinder_2	 who is the God of family, farming, hunting, and trade?	Erastil	Lore::Gods
+7jpeJ	PF2E Cloze	Pathfinder_2	 {{c1::Gorum}} is the {{c2::chaotic neutral}} God of {{c3::battle, strength, and weapons}}		Lore::Gods
+ZYCHP	PF2E Cloze	Pathfinder_2	{{c1::Gozreh}} is the {{c2::neutral}} God of {{c3::nature the sea and weather}}		Lore::Gods
+q37UR	PF2E Cloze	Pathfinder_2	 {{c1::Iomedae}} is the {{c2::LG}} goddess of {{c3::honor, Justice, rulership, and valor}}		Lore::Gods
+:@9!1	PF2E Cloze	Pathfinder_2	 {{c1::irori}} is the {{c2::lawful neutral}} God of {{c3::history, knowledge, and self-perfection}}		Lore::Gods
+g21sO	PF2E Cloze	Pathfinder_2	{{c1::lamashtu}} is the {{c2::chaotic evil}} {{c3::mother of monsters. she is the goddess of madness, monsters, and nightmares.}}		Lore::Gods
+az/K3	PF2E Cloze	Pathfinder_2	{{c1::Nethys}} is the {{c2::neutral}} {{c3::God of Destruction, Disorientation}}, {{c4::Glyph, Knowledge}}, {{c5::Magic and Protection}}.		Lore::Gods
+IcPIO	PF2E Cloze	Pathfinder_2	 {{c1::norgorber}} is the God of {{c2::greed, murder, secrets, and poison}}		Lore::Gods
+f&R]B	PF2E Cloze	Pathfinder_2	{{c1::Pharasma}} is the {{c2::neutral}} goddess of {{c3::birth, death, fate, and prophecy}}		Lore::Gods
+:Pl&A	PF2E Cloze	Pathfinder_2	 {{c1::rovagug}} is the {{c2::chaotic evil}} God of {{c3::destruction, disaster}}		Lore::Gods
+YFnP9	PF2E Cloze	Pathfinder_2	 {{c1::Sarernae}} is the goddess of {{c2::healing, honesty, redemption, and the sun}}		Lore::Gods
+,$4[2	PF2E Cloze	Pathfinder_2	 {{c1::shelyn}} is the goddess of {{c2::art, beauty, love, and music}}. her alignment is {{c3::neutral good}}		Lore::Gods
++Nyl9	PF2E Cloze	Pathfinder_2	{{c1::torag}} is the {{c2::lawful good}} God of the {{c3::forge, protection, and strategy}}		Lore::Gods
+)4V!G	PF2E Cloze	Pathfinder_2	 {{c1::Urgathoa}} is the {{c2::neutral evil}} goddess of {{c3::disease, gluttony, and undeath}}		Lore::Gods
+W`(nP	PF2E Cloze	Pathfinder_2	{{c1::Zon-Kuthon}} is the god of {{c2::ambition, darkness, destruction, pain}}.		Lore::Gods
+hOZj6	PF2E Cloze	Pathfinder_2	 the god {{c1::torag}} appears as a {{c2::powerful and cutting dwarf, busy at his forged hammering at a weapon or shield}}		Lore::Gods
+&?Wc	PF2E Cloze	Pathfinder_2	Torag's holy book is {{c1::hammer and tongs: the forging of metal and other good works}},		Lore::Gods
+AraiR	PF2E Cloze	Pathfinder_2	The Church of Torag particularly hates {{c1::bats::animal}}		Lore::Gods
+<lRl6	PF2E Cloze	Pathfinder_2	The god {{c1::torag}} sometime sends messages in the form of {{c2::cryptic riddles that appear on stone surfaces for a short period of time}}		Lore::Gods
++rPwU	PF2E Cloze	Pathfinder_2	 {{c1::earthquakes}} are the ultimate indication of the God torag's displeasure, but {{c2::those who survived}} are thought to be blessed		Lore::Gods
+i98YC	PF2E Cloze	Pathfinder_2	The followers of torag particularly hate the cult of {{c1::rovagug, for his spawn have long seeds and squirmed in the deeper corners of the Earth.}}		Lore::Gods
+).N56	PF2E Cloze	Pathfinder_2	Torags followers do not get on well with those of {{c1::sarenrae, since they're willing to forgive and a devotion to the sun seems too many dwarfed being indication of weakness}}		Lore::Gods
+vS!Y1	PF2E Cloze	Pathfinder_2	 most monsters ultimately believe that they are the spawn of {{c1::lamashtu}}		Lore
+eFz>M	PF2E Cloze	Pathfinder_2	 lamashtus crude depictions usually paint her as {{c1::a jackal headed woman with long feathered wings and taloned feet}}		Lore
+"#/6#1"	PF2E Cloze	Pathfinder_2	What goddess is associated with butterflies? {{c1::Desna}}		Lore::Gods
+P}m*7	PF2E Cloze	Pathfinder_2	Dezna's temples also double as {{c1::celestial observatories}}		Lore
+!3r:O	PF2E Cloze	Pathfinder_2	{{c2::Monday}} is called {{c1::moonday}}		Lore
+~IguR	PF2E Cloze	Pathfinder_2	 {{c1::Tuesday}} is called {{c2::toilday}}		Lore
+vOj>S	PF2E Cloze	Pathfinder_2	{{c1::Wednesday}} is called {{c2::wealday}}		Lore
+7ow9P	PF2E Cloze	Pathfinder_2	{{c1::Thursday}} is called {{c2::Oathday}}		Lore
+l,^wP	PF2E Cloze	Pathfinder_2	{{c1::Friday}} is called {{c2::fire day}}		Lore
+=/4-B	PF2E Cloze	Pathfinder_2	{{c1::Saturday}} is called {{c2::Star day}}		Lore
+}{&H2	PF2E Cloze	Pathfinder_2	 {{c1::Sunday}} is called {{c2::Sunday}}		Lore
+pb3WF	PF2E Cloze	Pathfinder_2	The usual market day is {{c1::fire day}}		Lore
+U^?4H	PF2E Cloze	Pathfinder_2	 the day for contracts is {{c1::oathday}}		Lore
+}w,uK	PF2E Cloze	Pathfinder_2	 dates are recorded from the {{c1::founding of the city of Absalom}}		Lore
+Kr6F7	PF2E Cloze	Pathfinder_2	The common tongue is also known as {{c1::Taldane}}		Lore
+j:+f6	PF2E Cloze	Pathfinder_2	 the language would just like Chinese is {{c1::Tien}}		Lore
+B,r*8	PF2E Cloze	Pathfinder_2	 rolling a natural one {{c1::reduces the degree of success by one level}}		Rule
+"0#nx4"	PF2E Cloze	Pathfinder_2	 rolling a natural 20 {{c1::increases that agree with success by one level}}		Rule
+OP=fB5nVP1	PF2E Cloze	Pathfinder_2	"Feint is a ""Mental"" action and thus cannot be used against {{c1::mindless creatures like Zombies}}"		Rule
+we3oC	PF2E Cloze	Pathfinder_2	Few dwarves are seen without their {{c1::clan daggers}} strapped to their belt. this {{c1::dagger}} is forged {{c3::just before a dwarf's birth}} and bears {{c2::the gemstone of their clan}}. A parent uses this dagger to {{c4::cut the infant's umbilical cord, making it their first weapon to taste their blood.}}		Lore
+tNf;5	PF2E Cloze	Pathfinder_2	When introducing themselves dwarfs tend to list {{c1::their family and plan, plus any number of other familial connections and honorifics.}}		Lore
+"#AfvQ"	PF2E Cloze	Pathfinder_2	Do dwarfs have darkvision? {{c1::Yes}}		Rule
+$ca]M	PF2E Cloze	Pathfinder_2	Low light vision means you can see {{c1::in dim light as if it were bright like.}} so you ignore the {{c2::concealed condition}} due to dim light o.		Rule
+2:tI4	PF2E Cloze	Pathfinder_2	Do elves have dark vision? {{c1::no}}		Rule
+9;+u9	PF2E Cloze	Pathfinder_2	Do elves have low light vision? {{c1::yes}}		Rule
+$s8v8	PF2E Cloze	Pathfinder_2	Can Pathfinder elves have eyes that are wide and {{c1::almond}} shaped, featuring {{c2::large colored pupils that make up the entire visible portion of the eye.}}		Lore
+cYrKL	PF2E Cloze	Pathfinder_2	Pathfinder: this affliction, the {{c1::bleaching}}, strikes gnomes who {{c2::failed to dream, innovate, and taken new experiences}}		Rule
+mDgUA	PF2E Cloze	Pathfinder_2	Most gnomes stand just over {{c1::3}} ft in height		Lore
+61~1A	PF2E Cloze	Pathfinder_2	Do gnomes have dark vision? {{c1::no}}		Rule
+Lp@5A	PF2E Cloze	Pathfinder_2	Do gnomes have low light vision? {{c1::yes}}		Rule
+:Ilc8	PF2E Cloze	Pathfinder_2	 goblins have a reputation as simple creatures who love {{c1::songs}}, {{c2::fire}}, and {{c3::eating disgusting things}} and who hate reading, {{c4::dogs}}, and {{c5::horses}}		Lore
+V`Ji9	PF2E Cloze	Pathfinder_2	What do goblins call taller people? {{c1::longshanks}}		Lore
+.`WdC	PF2E Cloze	Pathfinder_2	Do goblins have dark vision? {{c1::yes}}		Rule
+I1.9L	PF2E Cloze	Pathfinder_2	 half links hold a deep personal hatred of the practice of {{c1::slavery}} 		Lore
+:C0cB	PF2E Cloze	Pathfinder_2	 do gnomes have their own land? {{c1::no}}		Lore
+-%GWR	PF2E Cloze	Pathfinder_2	Do halflings have their own land? {{c1::no}}		Lore
+D%]KF	PF2E Cloze	Pathfinder_2	Pathfinder: when halfling's Target in opponent that is concealed from them or hidden from them they reduce the DC of the flat check to {{c1::three}} for a concealed target or {{c2::nine}} for a hidden one.		Rule
+ns)x5	PF2E Cloze	Pathfinder_2	 thanks to their keen eyes halflings gain a +{{c1::2}} circumstance bonus when using the seek action to find {{c2::hidden or undetected creatures}} within {{c3::30}} ft.		Ancestry::Halfling
+hzG<9	PF2E Cloze	Pathfinder_2	 what language do bug bears usually speak? {{c1::goblin}}		Lore
+"cTD#G"	PF2E Cloze	Pathfinder_2	An alchemist each day during their daily preparations gains a number of batches of an infused reagent equal to {{c1::their level plus their intelligence modifier.}}		Rule
+Z6IkK	PF2E Cloze	Pathfinder_2	 when an alchemist uses advanced alchemy to make items as part of their daily preparations, they get to make {{c1::twice the usual batch size.}}		Rule
+`RVQA	PF2E Cloze	Pathfinder_2	Can a barbarian voluntarily stop raging? {{c1::no}}		Rule
+:8eSU	PF2E Cloze	Pathfinder_2	 when a barbarian rages he gains {{c1::a number of temporary hit points equal to his level plus his constitution modifier::defensive benefit}}. The rage lasts for {{c2::1 minute,}} until {{c3::there are no enemies you can perceive}}, or until you {{c4::fall unconscious}} whichever comes first.  <br><br>You deal {{c5::2}} additional damage with {{c6::melee weapons and unarmed attacks.}} this additional damage is {{c7::halved}} if {{c8::your attack is agile.}}<br><br>you take a {{c9::-1}} penalty to {{c9::AC}}<br>you can't use actions with the {{c10::concentrate}} trait. but you can {{c11::seek}} while raging.<br><br>after you stop raging, you can't rage again for {{c12::1 minute.}}		Class::Barbarian
+!VndE	PF2E Cloze	Pathfinder_2	 if it champion violates their code of conduct, they lose their {{c1::focus pool}} and {{c2::Divine Ally}} until they repent.		Rule
+m36$G	PF2E Cloze	Pathfinder_2	 the attack of opportunity reaction may be used when a creature within your reach uses a {{c1::manipulate}} action or {{c2::move}} action, makes {{c3::ranged}} attack, or {{c4::leaves a square during a move action}}.<br><br>Make a melee strike against the triggering creature.  if it {{c5::is a critical hit}} and the trigger was a {{c6::manipulate}} action, it is disrupted. 		Rule
+WwoU8	PF2E Cloze	Pathfinder_2	Does the multiple attack penalty apply to an attack of opportunity? {{c1::no}}		Rule
+Mp<bT	PF2E Cloze	Pathfinder_2	Does an attack of opportunity count towards your multiple attack penalty in Pathfinder? {{c1::no}}		Rule
+=X*f2	PF2E Cloze	Pathfinder_2	 for the rangers Hunt Prey action, what are the requirements on what prey you may designate? He must be able to {{c2::see}} or {{c3::hear}} it, or you must {{c1::be tracking the prey}} during exploration mode.		Class::Ranger
+|*EZ7	PF2E Cloze	Pathfinder_2	 what bonuses does the rangers hunt prey action grant?  you gain a +{{c1::2}} circumstance bonus to {{c2::perception checks}} when you seek your prey and a +{{c1::2}} circumstance bonus to survival checks when you {{c2::track your prey}}.		Rule
+97(7C	PF2E Cloze	Pathfinder_2	 if you don't know how long a quick task takes, go with {{c1::one}} action, or {{c1::two}} actions if {{c2::a character shouldn't be able to perform at three times per round.}}		Rule
+N)b]6	PF2E Cloze	Pathfinder_2	Has a rule of thumb in Pathfinder, if an effect raises or lowers the chances of success, grant a {{c1::plus one or -1}} circumstance bonus.		Rule
+e_j&Q	PF2E Cloze	Pathfinder_2	As a rule of thumb, if you're not sure how difficult a significant challenge should be, use {{c1::the DC for the parties level.}}		Rule
+iHqDP	PF2E Cloze	Pathfinder_2	 if you're making up an effect, creature should be incapacitated or killed only {{c1::on a critical success.}}		Rule
+[?$;N	PF2E Cloze	Pathfinder_2	8 hours of rest allows a character to regain hit points equal to {{c1::their constitution modifier multiplied by their level.}}		Rule
+Hd@NH	PF2E Cloze	Pathfinder_2	Sleeping in armor makes you wake up {{c1::fatigued}}		Rule
+coub8	PF2E Cloze	Pathfinder_2	 if a character goes more than {{c1::16}} hours without sleep they become {{c2::fatigued}}		Rule
+Aj=5I	PF2E Cloze	Pathfinder_2	A 24-hour period of rest allows a character to receive recover {{c1::double}} what they would recover by a normal rest.		Rule
+_tUy3	PF2E Cloze	Pathfinder_2	If a task is something almost anyone could do, then it's simple DC is {{c1::10}}.		Rule
+"g#o#2"	PF2E Cloze	Pathfinder_2	 if a task would take a little bit of training to do then it's DC is {{c1::15.}}		Rule
+OCAF6	PF2E Cloze	Pathfinder_2	 if only an expert would be expected to complete the task, then its DC is {{c1::20}}.		Rule
+:zqzJ	PF2E Cloze	Pathfinder_2	A task that only a master would usually succeed at should be {{c1::DC-30}}		Rule
+[1w3	PF2E Cloze	Pathfinder_2	If only a legend should succeed at a task, what should the DC be? {{c1::40}}.		Rule
+sSr{L	PF2E Cloze	Pathfinder_2	When using level base to DC's, the adjustment for an incredibly easy task for a party of that level is -{{c1::10}}.		Rule
+7uG!8	PF2E Cloze	Pathfinder_2	 when using level based DC's, the modifier for a very easy task of that level is {{c1::-5}}		Rule
+O10wP	PF2E Cloze	Pathfinder_2	When using level based DC's, the adjustment for an easy task for the parties level is -{{c1::2}}.		Rule
+:YyVB	PF2E Cloze	Pathfinder_2	 when using level based DC's, the adjustment for a hard task for a party of that level is +{{c1::2}}		Rule
+8aUB	PF2E Cloze	Pathfinder_2	 when using level base DC's, the adjustment for a very hard task is +{{c1::5}}		Rule
+s<@^U	PF2E Cloze	Pathfinder_2	Pathfinder when using level based DCs, the adjustment for an incredibly hard task is +{{c1::10}}		Rule
+Esc>N	PF2E Cloze	Pathfinder_2	 when using level based DCs for items are spells, the modifier for an uncommon item or spell is +{{c1::2}}		Rule
+Z`8kT	PF2E Cloze	Pathfinder_2	 when using level-based DCs, the adjustment for a rare item or spell is +{{c1::5}}		Rule
+:w?UM	PF2E Cloze	Pathfinder_2	 when using level based DC's the adjustment for a unique item or spell is +{{c1::10}}		Rule
+zL[t5	PF2E Cloze	Pathfinder_2	If you want a challenging group check where everyone rolls then use the {{c1::very hard or incredibly hard}} levels for the party level.		Rule
+-h/bN	PF2E Cloze	Pathfinder_2	When a character crafts an item, use the {{c1::items level}} to determine the DC, applying the adjustments for {{c2::the items rarity.}} you might also apply the {{c3::easy}} DC adjustment for an item {{c4::the crafter has made before}}. repairing an item usually uses the DC {{c5::of the items level with no adjustments}}, thought you might adapt the DC to be more difficult for an item {{c6::of a higher level than the character can craft.}}		Rule
+6+dgU	PF2E Cloze	Pathfinder_2	The difficulty to identify magic or learn a spell usually the DC for {{c2::the spell or items level}}, adjusted for {{c1::rarity}}		Rule
+XzQ@M	PF2E Cloze	Pathfinder_2	 in a forest light undergrowth is {{c2::difficult terrain}} that allows a character to {{c1::take cover}}.		Rule
+6}.7F	PF2E Cloze	Pathfinder_2	In a forest heavy undergrowth {{c2::is greater difficult }}terrain that {{c1::automatically provides}} cover		Rule
+Z)sS7	PF2E Cloze	Pathfinder_2	Difficult terrain increases movement cost by {{c2::5}} ft per square. greater difficult terrain increases movement by {{c3::10}} ft per square. this additional cost {{c4::is not}} increased when moving diagonally. creatures can't normally {{c1::step}} in a difficult terrain		Rule
+K37sI	PF2E Cloze	Pathfinder_2	A crowd is {{c1::difficult}} terrain or a really packed crowd is {{c2::greater difficult}} terrain		Rule
+(-yQQ	PF2E Cloze	Pathfinder_2	Pathfinder the difficulty of climbing a wall made of crumbling masonry is {{c1::15}}		Rule
+2K0-R	PF2E Cloze	Pathfinder_2	The difficulty of climbing an ordinary brick wall is {{c1::20}}		Rule
+O~k/P	PF2E Cloze	Pathfinder_2	 does the multiple attack penalty apply to reactions? {{c1::no}}		Rule
+WCft8	PF2E Cloze	Pathfinder_2	For basic saving throws, on critical success you take {{c1::no damage}}. on regular success you take {{c2::half damage.}} on failure  you take {{c3::full damage}}. on critical failure you take {{c4::doubled damage}}.		Rule
+TC%SP	PF2E Cloze	Pathfinder_2	When making a non-lethal attack with a lethal weapon, take a {{c1::-2 circumstance penalty.}}		Rule
+*8Cv	PF2E Cloze	Pathfinder_2	 an action with the flourish trait can only be performed {{c1::once per turn.}}		Rule
+7HYUM	PF2E Cloze	Pathfinder_2	Pathfinder rogue sneak attack ability. if you strike a creature that is {{c1::flat footed}} with an {{c2::agile or finessed}} melee weapon, an {{c2::agile or finesse}} unarmed attack, or {{c3::ranged}} weapon attack, you {{c4::deal an extra one d6 precision damage.}} for ranged attack with a thrown melee weapon, that weapon must also {{c2::be agile or fitness.}}		Class::Rogue
+={4,1	PF2E Cloze	Pathfinder_2	 what is the rogue's surprise attack feat? on the {{c3::first round}} of combat, if you roll {{c4::deception}} or {{c4::stealth}} for initiative, creatures that {{c2::have not acted}} are {{c1::flat footed}} to you.		Class::Rogue
+%ie]Q	PF2E Cloze	Pathfinder_2	 if you have the thief rogues racket, then when you attack with a {{c2::finesse melee weapon}}, you can {{c1::add your dexterity modifier to damage rolls instead of your strength modifier.}}		Rule
+WGR%G	PF2E Cloze	Pathfinder_2	If you have the scoundrel robes racket, then when you {{c1::successfully feint}}, the target is {{c2::flat-footed against melee attacks you attempt against it}} until{{c3:: the end of your next turn}}. on a critical success, the target is{{c2:: flat footed against all melee attacks}} until {{c4::the end of their next turn}}.		Class::Rogue
+`/wfA	PF2E Cloze	Pathfinder_2	 if you have the ruffian rogue racket, then you can {{c1::use any simple weapon for the sneak attack ability.}} when you critically succeed at an attack using a {{c2::simple}} weapon and the target {{c3::has the flat footing condition}}, you also {{c4::apply the critical specialization effect for the weapon}}. you don't gain these benefits if the weapon {{c5::has a damage die larger than d8.}}		Class::Rogue
+"M!ik#W!wC:"	PF2E Cloze	Pathfinder_2	When counteracting a spell, the DC is determined based on {{c1::the casters DC}}		Rule
+"f`lGc`{*#s"	PF2E Cloze	Pathfinder_2	When counteracting in effect, you must determine its counteract level. if an effect as a spell, the {{c1::spell level}} is the counteract level. Otherwise, {{c2::halve its level and roundup}} to determine the counteract level. &nbsp;If an effect is unclear and came from a creature, {{c3::halve and round up the creature's level.}}		Rule
+B[PYQImDA>	PF2E Cloze	Pathfinder_2	When counteracting an effect,The counteract level of the target effect that you can counteract Is {{c1::three levels higher than your effect}} on a critical success, {{c2::One level higher}} on a success, {{c3::lower level}} on a failure, and {{c4::not at all}} on a critical failure		Rule
+n2YPLQkO&)	PF2E Cloze	Pathfinder_2	What happens to the character's initiative when they gain the dying condition? &nbsp; {{c1::They moved into the position directly before the creature which gave them the dying. condition}}		Rule::Dying
+fyVm*F,<`v	PF2E Cloze	Pathfinder_2	Pathfinder: if you are sent to zero HP by a critical hit, what are the consequence? &nbsp;{{c1::You gain the dying 2 condition.}}		Rule::Dying
+E/{Y_H[G_;	PF2E Cloze	Pathfinder_2	If you take it damage while dying in Pathfinder, then {{c1::your dying level increases}}		Rule::Dying
+mdSsf^pBEx	PF2E Cloze	Pathfinder_2	When you are dying, and the start of you to your turns, you must attempt {{c2::a flat check with the DC equal to 10+ your current dying value}}. On a critical success, your dying value is {{c1::reduced by two}}. On success, {{c1::your dying value is reduced by one}}. On failure {{c1::your dying value increases 1}}. Critical failure {{c1::dying value increases by two.}}		Rule::Dying
+ND9fxPg(7.	PF2E Cloze	Pathfinder_2	A character dies if they gain the condition {{c1::dying 4}}.		Rule::Dying
+F-y|!H}Uj/	PF2E Cloze	Pathfinder_2	If you lose the dying condition by succeeding at a recovery check, then {{c1::you are at zero hit points::HP}} and {{c2::unconscious::condition}}		Rule::Dying
+v<]-[A]e;j	PF2E Cloze	Pathfinder_2	If you were zero points and are healed by any number of hits, then you {{c1::lose the dying condition}} and {{c2::wake up}}		Rule::Dying
+NJgx<E:C<y	PF2E Cloze	Pathfinder_2	Anytime you lose the dying condition, you increase {{c1::your wounded condition by one}}		Rule::Dying
+H]=22a=}kN	PF2E Cloze	Pathfinder_2	If you have the unconscious condition, then you can't {{c1::act}}. You take {{c2::-4}} status penalty to {{c3::AC}}, {{c4::perception}}, and {{c5::reflex saves}}. &nbsp;You have the {{c6::blinded}} and {{c7::flat-footed}} conditions.		Rule::Condition
+e0KXi}E%8i	PF2E Cloze	Pathfinder_2	What is your net penalty to AC when unconscious? {{c1::-6 (-4 for condition itself, -2 for flat-footed condition it inflicts)}}		Rule
+9,7&4Hopo	PF2E Cloze	Pathfinder_2	If you aren't conscious but had more than one hit point, then you can wake up by {{c1::taking damage}}, by {{c2::receiving external healing}},by being {{c3::shaken by someone else}}, or by {{c4::succeeding at a perception check due to a loud noise}}		Rule
+jM_taj@<]?	PF2E Cloze	Pathfinder_2	Which checking to see if a player awakes from sleep due to a noise,you attempt {{c2::a perception check against the noise's DC}}. This is often {{c3::five}} for a battle, but may be a {{c4::creatures stealth DC}} if they're trying to stay quiet. When making this check, don't forget the {{c1::minus the -4 penalty to perception checks for being unconscious}}		Rule
+"sM&EC#6Ccf"	PF2E Cloze	Pathfinder_2	If you have the wounded condition, then {{c1::whenever you gain the dying condition you increase the dying condition by your wounded value}}. The wounded condition ends if {{c2::someone successfully restores hit points using Treat Wounds}}, or if you're restored to {{c3::full hit points}} and {{c3::rest for ten minutes}}		Rule::Dying
+oz+{|6t*yb	PF2E Cloze	Pathfinder_2	If you have the doomed condition, {{c1::your maximum dining value is reduced by your doomed value}}.If your maximum dining value is ever reduced to zero, {{c2::you instantly die}}. Your doomed value decreases {{c3::by one each time you get a full nights rest}}		Rule::Condition
+i%Tkra/axC	PF2E Cloze	Pathfinder_2	If you would gain the dying condition, you may spend {{c2::all your hero points}} to {{c3::remain at one hit point}}. You {{c1::do not gain}} the wounded condition		Rule::Dying
+P$c+xijQ_?	PF2E Cloze	Pathfinder_2	You die instantly if you ever take damage {{c1::equal to or greater than double your maximum points in one blow}}.		Rule
+m8&{}W:<Bf	PF2E Cloze	Pathfinder_2	Can you gain temporary hit points for multiple sources at once? {{c1::No}}		Rule
+"t$Hnp<y,)#"	PF2E Cloze	Pathfinder_2	If an item is reduced to zero hit points, then {{c1::it is destroyed.}}		Rule
+jMOp2bp/6N	PF2E Cloze	Pathfinder_2	The only time when one action may interrupt another, is if the interrupting action is either a {{c1::reaction}} or a {{c2::free action with a trigger}}.		Rule
+g/<6`&SS1W	PF2E Cloze	Pathfinder_2	For triggered actions, there is a limit of {{c1::one}} action per {{c2::trigger}} per {{c3::creature}}		Rule
+iD90tU%2Kd	PF2E Cloze	Pathfinder_2	If the multi-action activity is disrupted, are all actions lost? &nbsp; {{c1::Yes}}		Rule
+"Oe#b]CP)N~"	PF2E Cloze	Pathfinder_2	If you {{c2::take any damage}} from a fall, then you land {{c1::prone}}		Rule
+kDjQ3]~$$}	PF2E Cloze	Pathfinder_2	When you fall more than {{c3::5}} feet, you take {{c1::bludgeoning}} damage equal to {{c2::half the distance.}}		Rule
+eRrLzz$1-H	PF2E Cloze	Pathfinder_2	If you fall to water, snow, or another soft substance, you can treat the fall as if it were {{c1::20}} feet shorter, or {{c2::30}} feet shorter if {{c3::you intentionally dove in.}}		Rule
+iJd{B	PF2E Cloze	Pathfinder_2	If a falling creature or object lands on another creature, the creature must attempt a dc {{c1::15}} {{c2::reflex}} safe. On critical success {{c3::they take no damage}}. on success {{c3::they take bludgeoning damage equal to 1/4 of the falling damage}}. on a failure {{c3::equal to half}}. on critical failure, {{c3::full}}.		Rule
+<b}tD	PF2E Cloze	Pathfinder_2	 a source of light list the radius in which it sheds bright light, and it sheds dim light {{c1::to double that radius.}}		Rule
+Ap;7I	PF2E Cloze	Pathfinder_2	 creatures and objects in dim light {{c1::have the concealed condition}}, unless the seeker has {{c2::darkvision}} or {{c2::low-light vision}} or a {{c3::precise sense other than vision.}}		Rule
+jSixC	PF2E Cloze	Pathfinder_2	 A creature within darkness is {{c2::hidden or undetected}} unless the seeker has{{c3:: dark vision}} or a {{c3::precise sense other than vision}}. A creature without darkvision has the {{c4::blinded}} condition, though it might be able to see illuminated areas beyond The darkness.  after being in darkness, sudden exposure to Bright light might make you {{c1::dazzled}} for a short time.		Rule
+~}(FA	PF2E Cloze	Pathfinder_2	 the primary concepts you need to know for understanding senses are {{c4::precise}} senses, imprecise senses, and the three states of detection a Target can be in: {{c1::observed}}, {{c2::hidden}}, or {{c3::undetected}}.		Rule
+E}TII	PF2E Cloze	Pathfinder_2	An imprecise sense can at best make a creature {{c1::hidden}}, not {{c1::observed}}.		Rule
+[Ax7H	PF2E Cloze	Pathfinder_2	The Pathfinder, the difference between regular darkvision and greater darkvision is that greater darkvision can also {{c1::see through magical darkness at high levels.}}		Rule
+gxN_R	PF2E Cloze	Pathfinder_2	 a creature with low-light vision ignores the {{c1::concealed}} condition due to dim light.		Rule
+gN;v3	PF2E Cloze	Pathfinder_2	 a creature that is hidden is only barely perceptible. You know {{c2::what space hidden creature occupies, but little else}}. When targeting a hidden creature, you must pass a {{c3::dc11 flat check}}. You are {{c1::flat-footed::condition}} to hidden creatures.		Rule
+>=S8J	PF2E Cloze	Pathfinder_2	 if a creature is undetected, you don't know what space it occupies, you are {{c3::flat-footed::condition}} to it, and you cannot easily Target it.  a successful seek action will usually change its status to {{c2::hidden}}.  to Target such a creature with an attack, you declared attack against a square. You must make a {{c1::dc11 flat check in secret}}.		Rule
+9XYPG	PF2E Cloze	Pathfinder_2	 the concealed condition protects a creature which is {{c2::in mist, in dim light, or something else that obscure site but does not provide a physical barrier to its effects}}. when you target a creature that is concealed from you, he must pass a {{c1::dc5 flat check}}.		Rule
+flKQC	PF2E Cloze	Pathfinder_2	 when players are tied for initiative with enemies, {{c1::the enemy}} gets initiative.		Rule
+"6#k+S"	PF2E Cloze	Pathfinder_2	 you take persistent damage {{c1::at the end of your turn::when}}		Rule
+1[rLH	PF2E Cloze	Pathfinder_2	The trigger for the aid action is that {{c1::an ally is about to use an action that requires a check}}. You must have prepared to help by {{c2::taking an action on your turn}}. You attempt to skill check of a type decided by the GM. The typical DC is {{c3::20}}, but the GM May adjust this. on a critical success you grant a +{{c4::2}} circumstance bonus to the triggering check. if you're a master + {{c4::3}} + if you are legendary + {{c4::4}}. on success you grant a {{c4::plus one circumstance bonus}}. on critical failure you grant a {{c4::minus one circumstance penalty.}}		Action::Basic Rule
+(:&XD	PF2E Cloze	Pathfinder_2	The crawl action requires you to be {{c1::prone}} and have a speed of at least {{c2::10}} ft. You move {{c3::5}} feet by crawling and continue to stay prone.		Action::Basic Rule
+LG/,R	PF2E Cloze	Pathfinder_2	If you take the delay actions you {{c1::skip your turn}}. You are removed from initiative order and can return to the initiative order as a free action triggered by {{c2::the end of many other creatures turn.}} this permanently changes your initiative to the new position. You can't use {{c3::reactions}} until you return to initial order. when you delay {{c4::any persistent damage or other negative effects }}occur immediately when you use the delay actions. any beneficial effects that would end at any point during your turn {{c5::also end}}.		Rule
+0a`GL	PF2E Cloze	Pathfinder_2	 can you use reactions when you have taken the delay? {{c1::no}}		Rule
+$R;KN	PF2E Cloze	Pathfinder_2	A Pathfinder, if you take the leap action you can leap up to {{c2::10}} ft horizontally me if your speed is at least 15 ft, and up to {{c2::15}} feet horizontally if your speeds at least 30 ft. if you leap vertically you can move up to {{c3::three}} feet vertically and {{c4::five}} feet horizontally onto an elevated surface. jumping a greater distance requires {{c1::the athletic skill.}}		Action::Basic Rule
+d?A0L	PF2E Cloze	Pathfinder_2	 is there any sort of terrain you cannot take the Step action into? {{c1::you cannot step into difficult terrain.}}		Rule
+03X`1	PF2E Cloze	Pathfinder_2	 the standard bulk of a medium creature is {{c1::6}}		Rule
+?4W1H	PF2E Cloze	Pathfinder_2	 if you are dragging something treat its bulk as {{c1::halved}}		Rule
+LN)dD	PF2E Cloze	Pathfinder_2	 the barbarians raging intimidation feet, allows them to {{c1::do demoralize and scare to death while raging}}.  they also gain the {{c2::intimidating glare and scared to death feats}} for free when available		Rule
+k50>K	PF2E Cloze	Pathfinder_2	 the champions retributive strike reaction allows them to protect an ally and strike a foe. The ally gains {{c2::resistance against the triggering damage equal to two plus year level.}} if the foe was within reach, {{c3::make a melee strike against it}}. both the ally and the foe must be within {{c1::15}} ft of you.		Class::Champion
+Ow--P	PF2E Cloze	Pathfinder_2	The champions Divine Grace reaction is triggered by {{c1::attempting a save against a spell,}} {{c2::before}} you roll. you gain {{c3::a +2 circumstance bonus to the save.}}		Class::Champion
+.{7[I	PF2E Cloze	Pathfinder_2	 a goblins scuttle reaction is triggered when {{c2::a goblin ally ends a move adjacent to the goblin}}. The effect is that {{c1::the goblin Steps}}.		Rule
+$7Y6O	PF2E Cloze	Pathfinder_2	A range attack with the brutal trait {{c1::uses it strength modifier instead of dexterity on the attack roll.}}		Rule
+)*4VB	PF2E Cloze	Pathfinder_2	Does it take an action to drop prone? {{c1::yes}}		Rule
+"|a#i3"	PF2E Cloze	Pathfinder_2	Does it take an action to drop an item? {{c1::no}}		Rule
+:FTiD	PF2E Cloze	Pathfinder_2	 does the Escape action have the attack trait? {{c1::yes}}		Rule
+a{SPE	PF2E Cloze	Pathfinder_2	When rolling the escape action you can use {{c3::acrobatics}}, {{c2::athletics}}, or {{c1::unarmed attack}}.		Action::Basic Rule
+p0%!C	PF2E Cloze	Pathfinder_2	 if you fail the escape action, can you try again on the same turn? {{c1::Yes}}		Rule
+t%$jH	PF2E Cloze	Pathfinder_2	If you crit fail the escape action, can you try again on the same turn? {{c1::no}}		Rule
+mOMjD	PF2E Cloze	Pathfinder_2	 if you critically succeed at the escape action, what bonus do you get? {{c1::you get to stride up to 5 ft}}		Rule
+_;uHA	PF2E Cloze	Pathfinder_2	 does the multiple attack penalty apply to a Ready-ed action? {{c1::yes}}		Rule
+AmucO	PF2E Cloze	Pathfinder_2	The Ready action lets you {{c1::declare an action with a trigger that will be carried out as a reaction if that trigger occurs.}}		Rule
+g*9zO	PF2E Cloze	Pathfinder_2	How many actions does the Ready action take? {{c1::2}}		Rule
+sqlv3	PF2E Cloze	Pathfinder_2	 Does the release action trigger attacks of opportunity? {{c1::no}}		Rule
+SWc,H	PF2E Cloze	Pathfinder_2	 when attempting the sense motive action you make a {{c1::perception}} check against the {{c2::deception}} DC of the creature or DC of the relevant spell		Rule
+Ha=|8	PF2E Cloze	Pathfinder_2	You Pathfinder, can you step into difficult terrain? {{c1::no}}		Rule
+48nOG	PF2E Cloze	Pathfinder_2	When using the seek action to look for creatures, you can look in a {{c1::30-}}ft cone or a {{c2::15}}-ft burst within line of sight.		Rule
+rR9/A	PF2E Cloze	Pathfinder_2	 when using the seek action to look for objects, you can search up to {{c1::10}} foot square adjacent to you.		Rule
+=Yb,T	PF2E Cloze	Pathfinder_2	If you are prone, can you use the Take Cover action without any further cover? {{c1::yes}}		Rule
+e71d4	PF2E Cloze	Pathfinder_2	Pathfinder you can take the Take Cover action in order to gain a +{{c1::2}} circumstance bonus to AC. if you already have standard cover, you instead gain {{c2::greater cover}}, which provides of +{{c3::4}} circumstance bonus to AC, reflex saves, and stealth checks to hide sneak etc.		Action::Basic Rule
+fIG6L	PF2E Cloze	Pathfinder_2	 if you do the take cover action, then you keep the benefits until you {{c1::move from your space}}, {{c2::use an attack action}}, {{c3::become unconscious}}, or choose to end this effect as a free action.		Action::Basic Rule
+WZC^9	PF2E Cloze	Pathfinder_2	 if you take the {{c3::Avert Gaze}} action, you gain a +{{c2::2}} circumstance bonus to save against visual abilities that require you to look at a creature or object. your gaze remains averted until {{c1::the start of your next turn.}}		Action::Basic Rule
+icP+B	PF2E Cloze	Pathfinder_2	 when flying, treat movement upward as {{c2::movement through difficult terrain}}. when moving straight down, you {{c1::can  move 10 ft for every 5 ft of movement you spend.}}		Rule
+$__)	PF2E Cloze	Pathfinder_2	 the Point Out action allows you to indicate a creature which is undetected by your allies, but not undetected by you. the creature becomes merely {{c1::hidden}} to your allies.		Rule
+Udv*6	PF2E Cloze	Pathfinder_2	 does the multiple attack penalty normally apply to actions outside your turn? {{c1::no}}		Rule
+}`e3G	PF2E Cloze	Pathfinder_2	 difficult terrain cost an extra {{c1::5}} ft of movement enter. greater difficult terrain cost an extra {{c1::10}} ft of movement to enter.		Rule
+%CPuD	PF2E Cloze	Pathfinder_2	Two players flank a creature if {{c1::you can draw a line between them the passes through two opposite sides of the opposing space.}}		Rule
+.iV]H	PF2E Cloze	Pathfinder_2	 on a narrow surface you need to take the {{c2::Balance}} action or risk falling. Even on success, you are {{c3::flat footed}}. Each time you are hit by an attack or fail a save, you must succeed at a {{c1::reflex save}} or fall.		Rule
+X,uMD	PF2E Cloze	Pathfinder_2	When climbing an incline you have {{c1::the flat footed}} condition		Rule
+rjIS6	PF2E Cloze	Pathfinder_2	The Pathfinder, treat uneven ground the same way you do {{c1::narrow surfaces}}.		Rule
+B53RJ	PF2E Cloze	Pathfinder_2	 a creature is {{c1::flat footed}} to foes which are flanking it.		Rule
+S4vB3	PF2E Cloze	Pathfinder_2	A creature which is screened by another creature, has {{c1::lesser cover}} which provides a {{c2::+1}} circumstance bonus to AC.		Rule
+7~aXO	PF2E Cloze	Pathfinder_2	What degree of cover is necessary in order to hide in Pathfinder? {{c1::standard cover}}		Rule
+76n,I	PF2E Cloze	Pathfinder_2	 if your mount attacks, and then you attack, do you take the multiple attack penalty for the mount attack? {{c1::yes}}		Rule
+U[kN	PF2E Cloze	Pathfinder_2	While mounted in Pathfinder, you take a -{{c1::2}} circumstance penalty to {{c2::reflex saves}}		Rule
+e.fi7	PF2E Cloze	Pathfinder_2	 when underwater, you are {{c1:: flat footed}} unless you have a {{c2::swim}} speed. you gain Resistance {{c3::5}} to {{c4::acid}} and {{c5::fire}}. you take a -{{c6::2}} circumstance penalty to melee slashing or bludgeoning attacks. you can't cast spells or use actions with the {{c7::fire}} trait when underwater. range attacks that deal bludgeoning or slashing damage automatically miss and piercing ranged attacks have {{c8::their range cut in half}}.		Rule
+^`GjA	PF2E Cloze	Pathfinder_2	 you can hold your breath for number of rounds equal to {{c1::5 + your constitution modifier}}. Your remaining rounds of air are reduced by {{c2::one}} at the end of each of your turn or by {{c2::two}} if you {{c3::attacked or cast any spells that turn}}. you also lose one round of air each time {{c4::you are critically hit or critically failed save against a damaging effect.}} when you run out of air you fall as conscious and start suffocating. you must attempt a DC {{c5::20}} {{c6::fortitude}} safe at the end of each turn. on failure you take {{c7::1D 10}} damage, and on critical failure {{c8::you die}}. each after the first the DC increases by {{c9::five}} and the damage by one {{c10::d10}}.		Rule
+j&,QQ	PF2E Cloze	Pathfinder_2	 when using the avoid notice exploration activity, you move at {{c1::half speed.}}		Rule
+roZHG	PF2E Cloze	Pathfinder_2	If you use the defend exploration activity, then you move at {{c1::half speed}} with your shield raised. if combat breaks out, you gain {{c2::the benefits of raising a shield before your first time begins.}}		Rule
+}lue2	PF2E Cloze	Pathfinder_2	When using the detect magic exploration activity, you move at{{c1:: half speed}} or slower. 		Rule
+~NH~H	PF2E Cloze	Pathfinder_2	 the {{c1::follow the expert}} exploration activity allows you to attempt the same check that an ally is doing. The expert ally must have at least the {{c2::expert}} level in the relevant skill. thanks to your allies assistance, you can {{c3::add your level as a proficiency bonus to the associate's skill check}} even if you are untrained. additionally you gain a circumstance bonus to the skill check based on your alley's proficiency: +{{c4::2}} for expert, +{{c4::3}} for master, and +{{c4::4}} for legendary.		Rule
+WK~W9	PF2E Cloze	Pathfinder_2	 when using the exploration activity hustle, he move {{c2::at double your speed}}. you can hustle only for number of minutes equal to {{c1::your constitution modifier times 10 (min 10).}}		Rule
+Y-bbP	PF2E Cloze	Pathfinder_2	 the repeat of spell exploration activity let you cast the same spell (or sustain a spell) repeatedly while moving at{{c1:: half speed.}}		Rule
+O.aZ5	PF2E Cloze	Pathfinder_2	 if you use the scout exploration activity, you move at {{c1::half}} speed but you gain a +{{c2::1}} circumstance bonus to initiative rolls.		Rule
+4gLBE	PF2E Cloze	Pathfinder_2	If you use the search exploration activity, then you move at no more than {{c2::150 ft per minute}} if you want to make sure you check everything before you walk into it. at most you can move at {{c1::half speed}} if you are just checking things with your obviously interesting.		Rule
+"#X&uO"	PF2E Cloze	Pathfinder_2	 sleeping in armor gives you the {{c1::fatigued}} condition.		Rule
+sJI$B	PF2E Cloze	Pathfinder_2	 if you go more than 16 hours without rest, you become {{c1::fatigued}}		Rule
+3PeeE	PF2E Cloze	Pathfinder_2	How many worn magical items can you usually invest? {{c1::10}}		Rule
+*h0oJ	PF2E Cloze	Pathfinder_2	 you can spend it entire day and night resting during downtime to recover head points equal to {{c1::your constitution modifier multiplied by twice your level.}}		Rule
+yU_FBAc7;0	PF2E Cloze	Pathfinder_2	Pathfinder:&nbsp;You die instantly if you ever take damage {{c1::equal to or greater than double your maximum Hit Points in one blow.}}		Rule
+Qn.=+<|~Ab	PF2E Cloze	Pathfinder_2	Pathfinder: is precision damage double on a critical hit? {{c1::Yes}}		Rule
+QP84S	PF2E Cloze	Pathfinder_2	 what sort of check do you do to see whether persisted damage stops? {{c1::DC 15 flat}}		Rule
+*T]rG	PF2E Cloze	Pathfinder_2	 what is the difference between a burst and an emanation with a respects to area spells?  an emanation always counts a certain number of spaces {{c1::away from the casters own space, not including the caster space. a burst is measured from some other vertex of spaces, not a space itself.}}		Rule
+/H>/I	PF2E Cloze	Pathfinder_2	 the time is listed for the stages of an affliction are {{c1::how long it is before you roll another saving throw}}		Rule
+dhq<K	PF2E Cloze	Pathfinder_2	 when making a saving throw against an affliction, your stage decreases by {{c1::two}} on a critical success, {{c1::one}} on a success, increases by {{c1::one}} on a failure, increases by {{c1::two}} on a critical failure.		Rule
+/4U>L	PF2E Cloze	Pathfinder_2	 multiple exposures to the same curse or disease have {{c1::no additional effect.}}		Rule
+c9E/B	PF2E Cloze	Pathfinder_2	 multiple exposures to the same poison {{c1::increases your stage.}}		Rule
+X@TjF	PF2E Cloze	Pathfinder_2	An affliction with the virulent trait {{c1::requires you to succeed at two consecutive  saves to reduce the stage by one.}}		Rule
+2g_oD	PF2E Cloze	Pathfinder_2	 when you are attempting to counteract some effect, you first must determine the {{c1::counteract level}} of both the effect you are trying to counter and the effect you're using to counter it. for spells {{c2::their own level}} is the countract level, for other things the counteract level is {{c3::half the usual level}}.  Roll against the casters DC. on a critical failure, you failed the counteract. on a failure you can counteract if the counteract level of the target is {{c4::lower than your effects counteract level.}} on a success you can counteract the target if it's counteract level is {{c4::no more than one level higher than yours}}. on a critical success you can counteract the target if {{c4::its counteract level is no more than three levels higher than your effect level.}}		Rule
+cod_H	PF2E Cloze	Pathfinder_2	The two skills animal companions are normally trained in are {{c1::athletics}} and {{c2::acrobatics}}.		Rule
+ls`q2	PF2E Cloze	Pathfinder_2	 the usual DC for a task that an untrained person would have a good chance of being successful at is {{c1::10}}		Rule
+.BdI	PF2E Cloze	Pathfinder_2	 the DC for a task a trained person would usually be successful at is {{c1::15}}		Rule
+2W:~B	PF2E Cloze	Pathfinder_2	The DC for a task and expert would usually be successful at is {{c1::20}}		Rule
+?&,K5	PF2E Cloze	Pathfinder_2	The DC for a check that you would need to be a master to be successful at is {{c1::30}}		Rule
+dL~^P	PF2E Cloze	Pathfinder_2	 the DC for a task you would need to be legendary to have a good chance at is {{c1::40}} yeah		Rule
+[qv=6	PF2E Cloze	Pathfinder_2	 how long does it normally take to identify magic? {{c1::10 minutes}}		Rule
+qumjU	PF2E Cloze	Pathfinder_2	To find out all the information about magic through identify magic in Pathfinder, you need a result of a {{c1::critical success}}		Rule
+K)$iK	PF2E Cloze	Pathfinder_2	A a regular success at identifying magic gives you {{c1::a general sense of what the magic does and how does activated}}		Rule
+@1633	PF2E Cloze	Pathfinder_2	Went on a narrow surface or uneven ground, then you are {{c1::flat footed}}		Rule
+Z@J8T	PF2E Cloze	Pathfinder_2	 if he roll a critical success at a balance action, then you may {{c1::move up to your speed}}		Rule
+&(417	PF2E Cloze	Pathfinder_2	If you roll a regular success in a balance action, then {{c1::you move your speed treating it as difficult terrain}}		Rule
+lh3`C	PF2E Cloze	Pathfinder_2	A failure at a balance action means {{c1::that you must remain stationary or else you fall.}}		Rule
+RoKr6	PF2E Cloze	Pathfinder_2	A critical failure at a balance action means that {{c1::you fall and your turn ends}}		Rule
+4wC!A	PF2E Cloze	Pathfinder_2	If you succeeded a tumble through action, then {{c1::you move your speed through the enemies space, treating it as difficult terrain}}		Rule
+HAl,	PF2E Cloze	Pathfinder_2	If you fail it at tumble through action, then {{c1::your movement ends}} and {{c2::you trigger reactions is if you would move out of the square you started it.}}		Rule
+20jI3	PF2E Cloze	Pathfinder_2	When climbing you are {{c1::flat footed}} unless {{c2::you have a climb speed}}		Rule
+_ZUE	PF2E Cloze	Pathfinder_2	 a critical success on a climbing action allows you to move {{c1::5 ft + 5 ft per 20 ft of your land speed.}}		Rule
+1vxKH	PF2E Cloze	Pathfinder_2	A regular success on a climb action allows you to climb {{c1::5 ft per 20 ft of your land speed.}}		Rule
+eRz_7	PF2E Cloze	Pathfinder_2	 a failure at a climb action means{{c1:: that you cannot move.}}		Rule
+t<CrA	PF2E Cloze	Pathfinder_2	 a critical failure at a climb action means {{c1::that you fall.}}		Rule
+o]|~H	PF2E Cloze	Pathfinder_2	What is the difficulty level for climbing a ladder? {{c1::untrained = DC 10 }}		Rule
+3*C+8	PF2E Cloze	Pathfinder_2	What is the difficulty of climbing a low branch tree? {{c1::trained equals DC-15}}		Rule
+`OZIG	PF2E Cloze	Pathfinder_2	What is the difficulty of climbing a ship's rigging? {{c1::trained equals DC 15}}		Rule
+QL~|9	PF2E Cloze	Pathfinder_2	What is the difficulty of climbing up a rope? {{c1::trained equals DC-15}}		Rule
+?&X_E	PF2E Cloze	Pathfinder_2	What is the difficulty of climbing a typical tree? {{c1::trained equals DC 15}}		Rule
+yXx,8	PF2E Cloze	Pathfinder_2	 what is the difficulty of climbing a wall with a few handles and footholds? {{c1:: expert equals DC20}}		Rule
+K-AU9	PF2E Cloze	Pathfinder_2	What is the difficulty of climbing a perfectly smooth surface? {{c1::legendary equals DC40}}		Rule
+"#N^y9"	PF2E Cloze	Pathfinder_2	 if you try to pry something open {{c2::without a crowbar}} you take {{c1::a -2 item}} penalty		Rule
+8uC<6	PF2E Cloze	Pathfinder_2	 a critical success at a force open action, allows you {{c1::to open the arm check without damaging i.}}		Rule
+U_5;J	PF2E Cloze	Pathfinder_2	A regular success at a force open action {{c1::opens the object but also breaks it}}		Rule
+D/8rP	PF2E Cloze	Pathfinder_2	The Pathfinder, a critical failure at a force open action {{c1:: jams the object, imposing a minus two circumstance penalty on future attempts to force it open.}}		Rule
+6qP~U	PF2E Cloze	Pathfinder_2	 difficulty level to force open sturdy glass is {{c1::trained (DC 15)}}		Rule
+"6UR#R"	PF2E Cloze	Pathfinder_2	The difficulty of forcing open a flimsy wooden door is {{c1::expert (DC 20)}}		Rule
+BciQ1	PF2E Cloze	Pathfinder_2	 the difficulty of forcing open iron portcullis is {{c1::master, DC-30}}		Rule
+/a@_U	PF2E Cloze	Pathfinder_2	The difficulty of forcing open a sturdy wooden door is {{c1::master DC-30}}		Rule
+QjaCR	PF2E Cloze	Pathfinder_2	The difficulty of forcing open a stone or iron door is {{c1::legendary, DC40}}		Rule
+.?glJ	PF2E Cloze	Pathfinder_2	The biggest creature you can grapple is {{c1::one one size larger than you}}		Rule
+/jbAR	PF2E Cloze	Pathfinder_2	And Pathfinder do you need a free hand to grapple{{c1::? yes, unless you have a weapon with a grapple trait}}		Rule
+IExGA	PF2E Cloze	Pathfinder_2	If you currently have an opponent grappled and you want to continue and grappling them onto your next turn, then {{c1::you need to take the grapple action again on this term}}		Rule
+9oG0U	PF2E Cloze	Pathfinder_2	A critical success on the grapple action youre opponent has the {{c3::restrained}} condition {{c4::until the end of your next turn}} unless {{c1::you move}} or {{c2::your opponent escapes}}		Action::Basic Rule
+x1Fo9	PF2E Cloze	Pathfinder_2	 on a regular success for a grapple action, your opponent has the {{c1::grabbed}} condition until {{c2::the end of your next turn}} unless {{c3::you move}} or {{c4::your opponent escapes}}		Action::Basic Rule
+XYWMN	PF2E Cloze	Pathfinder_2	A critical failure on a grapple action means that your target can either {{c2::grapple you as if it had succeeded as a grapple action}} or {{c1::force you to fall and land prone}}		Rule
+C$Jm	PF2E Cloze	Pathfinder_2	What is the biggest creature you can shove{{c1::? a creature one size larger than you}}		Rule
+4S%wU	PF2E Cloze	Pathfinder_2	 on a critical success on a shove action, you push your opponent up to {{c2::10}} ft away from you. you can {{c1::stride to pursue them.}}		Rule
+S4_)F	PF2E Cloze	Pathfinder_2	On a regular success at a shove action, he pushed her appointment back {{c2::5}} ft. you can {{c1::stride to pursue them}}		Rule
+x~`~J	PF2E Cloze	Pathfinder_2	 on a critical failure on a shove action, {{c1::you lose your balance and fall prone}}		Rule
+P+N77	PF2E Cloze	Pathfinder_2	 in order to attempt long jump, you must Stride at least {{c1::10}} ft before leaping		Rule
+shwZA	PF2E Cloze	Pathfinder_2	The DC of a long jump attempt is {{c1::the number of feet you are attempting to jump}}		Rule
+?==GH	PF2E Cloze	Pathfinder_2	How many actions is long jump? {{c1::2}}		Rule
+[gg:K	PF2E Cloze	Pathfinder_2	 the difficulty level of swimming in a calm lake is {{c1::untrained, DC-10}}		Rule
+BxiNG	PF2E Cloze	Pathfinder_2	The difficulty of swimming in a calm river is {{c1::trained, DC-15}}		Rule
+8}i|U	PF2E Cloze	Pathfinder_2	 the difficulty of swimming in a swiftly flowing river is {{c1::expert DC 20}}		Rule
+iOHuR	PF2E Cloze	Pathfinder_2	The difficulty of swimming in a stormy sea is {{c1::master DC-30}}		Rule
+OaK1G	PF2E Cloze	Pathfinder_2	Do you have to have a hand-free to trip somebody? {{c1::yes}}		Rule
+Reo5V	PF2E Cloze	Pathfinder_2	 what's the largest creature you cantrip? {{c1::one size larger than you}}		Rule
+^ZO^T	PF2E Cloze	Pathfinder_2	 shove attacks are rolled against your opponent's {{c1::fortitude}} DC		Rule
+GDLHQ	PF2E Cloze	Pathfinder_2	 grapples are rolled against your opponent's {{c1::fortitude}} DC		Rule
+MfHgS	PF2E Cloze	Pathfinder_2	Trip attempts are rolled against your target's {{c1::reflex DC}}		Rule
+kOGnJ	PF2E Cloze	Pathfinder_2	What is the largest creature you can attempt to disarm{{c1::? one size larger than you}}		Rule
+NKu6H	PF2E Cloze	Pathfinder_2	 you roll the disarm action against your opponent's {{c1::reflex}} DC		Rule
+k3dh1	PF2E Cloze	Pathfinder_2	 on a critical success on the disarm {{c1::action, you knock the item out of the opponent's grasp and it falls to the ground}}		Rule
+3);_G	PF2E Cloze	Pathfinder_2	On a success on a disarm action, you {{c2::weaken your opponent's grasp on the item.}} until {{c3::the start of that creatures turn}} attempts to disarm the opponent of that item came add a {{c4::plus two}} circumstance bonus and the target {{c1::takes a minus two circumstance penalty to attacks of the item}}		Action::Basic Rule
+^Nv<L	PF2E Cloze	Pathfinder_2	Does the grapple action have the attack trait? {{c1::yes}}		Rule
+-i^2F	PF2E Cloze	Pathfinder_2	Does the shove action have the attack trait? {{c1::yes}}		Rule
+/A-nQ	PF2E Cloze	Pathfinder_2	Does the trip action have the attack trait? {{c1::yes}}		Rule
+{k@u4	PF2E Cloze	Pathfinder_2	Does it disarm action have the attack trait? {{c1::yes}}		Rule
+"#`FaR"	PF2E Cloze	Pathfinder_2	The normal time required to identify magic is {{c1::10 minutes}}		Rule
+awfTC	PF2E Cloze	Pathfinder_2	 how long does it normally take to repair an item? {{c1::at least 10 minutes}}		Rule
+RB0<6	PF2E Cloze	Pathfinder_2	A critical success at a repair action allows you to {{c1::restore 10 hit points to an item, plus an additional 10 hit points per proficiency rank you have in crafting}}		Rule
+R$$_	PF2E Cloze	Pathfinder_2	A success on a repair action allows you to {{c1::restore five hit pointsto an item plus an additional 5 proficiency rank you have in crafting}}		Rule
+2ElvL	PF2E Cloze	Pathfinder_2	 what is the consequence of a critical failure at a repair action? {{c1::2d6 damage to the item}}		Rule
+[E)C4	PF2E Cloze	Pathfinder_2	 if you use the create a diversion action, you attempt a single {{c2::deception}} check and compare it to the {{c3::perception}} DCs of the creatures whose attention you're trying to divert. whether or not you succeed, they gain a +{{c4::4}} {{c5::circumstance}} bonus to their perception DC's against your attempts to create a diversion for {{c6::one minute.}} on success {{c7::you become hidden to each creature who's perception DC is less than or equal to your result}}. this last until {{c8::the end of your turn}} or until you do anything except {{c9::step}} or {{c9::hide or sneak}}. if you strike a creature, {{c10::the creature remains flat footed against that attack, and then you become observed}}. on failure the creatures are {{c1::aware you were trying to trick them.}}		Action::Basic Rule
+$k&4T	PF2E Cloze	Pathfinder_2	A Pathfinder, how long does it usually take to concoct a good disguise.  {{c1::10 mins}}		Rule
+Z`m|6	PF2E Cloze	Pathfinder_2	When attempting The impersonate activity, on failure the creature can tell {{c2::you're not who you claim to be}}. On critical failure, they also {{c1::recognize you if they would know you without a disguise.}}		Rule
+Se-+O	PF2E Cloze	Pathfinder_2	If you fail at the lie activity, then the target does not believe their lie and {{c1::gains a +4 circumstance bonus against your attempts to lie for the duration of the conversation.}}		Rule
+!OLp7	PF2E Cloze	Pathfinder_2	 can you use the feint action with a ranged attack? {{c1::no}}		Rule
+tgb?3	PF2E Cloze	Pathfinder_2	 if you succeed at the feint action, then {{c1::the target is flat footed against the next melee attack you attempt against it before the end of your current turn.}}		Rule
+@Y[sQ	PF2E Cloze	Pathfinder_2	 if you get a critical success at a feint action, {{c1::then the target is flat footed against melee attacks if you attempt against it until the end of your next turn.}}		Rule
+Fs<iB	PF2E Cloze	Pathfinder_2	The length of time normally required for the make an impression activity is {{c1::1 minute}}		Rule
+^2)R2	PF2E Cloze	Pathfinder_2	 when you use the make an impression activity you make a {{c1::diplomacy}} check against the {{c2::will}} DC of a target.		Rule
+,BBN5	PF2E Cloze	Pathfinder_2	A critical success at the make an impression action {{c2::improves the targets attitude towards you by two steps.}} a success {{c3::by one step}}, and a critical failure decreases you {{c1::by one step.}}		Rule
+;!j_5	PF2E Cloze	Pathfinder_2	The attitudes and NPC can have from most positive and to most negative are {{c1::helpful}}, {{c2::friendly}}, {{c3::indifferent}}, {{c4::unfriendly}}, {{c5::hostile}}		Rule
+"a#F]6"	PF2E Cloze	Pathfinder_2	 when you take the request action, on a critical success the target {{c1::agrees to your request without qualifications.}} on success the target {{c1::agreed to your request but they might have additional demands}}. on failure the target {{c1::refuses the request, though they might propose an alternative.}} on critical failure the target {{c1::refuses the request and their attitude towards you decreased by one step.}}		Rule
+"#x(|3"	PF2E Cloze	Pathfinder_2	 the normal amount of time required for a coerce action is {{c1::1 minute}}		Rule
+IGLUQ	PF2E Cloze	Pathfinder_2	When using the coerce action, you make an {{c2::intimidation}} check against a targets {{c1::will}} DC		Rule
+ZQ?ZU	PF2E Cloze	Pathfinder_2	When taking the coerce action, on a critical success the Target {{c1::gives you what you want and continues to comply for up to one day at which point the target becomes unfriendly but it's too scared to retaliate in the short-term.}} on the success the same as a CS  but {{c2::they might decide to act against you.}} on a failure  the target doesn't do what you say and {{c3::they become unfriendly}}. on a critical failure the target {{c4::refuses to compy and becomes hostile.}}		Action::Basic Rule
+:!bP7	PF2E Cloze	Pathfinder_2	The normal range for the demoralized action is {{c1::30}} ft		Rule
+En59B	PF2E Cloze	Pathfinder_2	The penalty to a demoralize action for not being able to communicate by language with the target is a -{{c1::4}} {{c2::circumstance}} penalty		Rule
+{h_RO	PF2E Cloze	Pathfinder_2	After demoralize action, regardless of result, the target is immune to your demoralization for {{c1::10}} minutes		Rule
+9AZaM	PF2E Cloze	Pathfinder_2	On a critical success on the demoralized action in Pathfinder, the target gains the condition {{c1::frightened 2}}		Rule
+mWbnM	PF2E Cloze	Pathfinder_2	On a regular success for the demoralized action, the tatget becomes {{c1::frightened 1}}		Rule
+tvM:R	PF2E Cloze	Pathfinder_2	Is administer first aid a trained or untrained use of medicine? {{c1::untrained}}		Rule
+.x)`T	PF2E Cloze	Pathfinder_2	How many actions does the administer first aid activity take? {{c1::2}}		Rule
+:u}cG	PF2E Cloze	Pathfinder_2	When using the administer first aid activity to stabilize a dying creature, you tempted medicine check with a DC equal to {{c2::5 + the creatures recovery roll DC, which is typically 15 plus it's dying value}}. on a success the creature loses the dying condition but {{c3::remains unconscious}}. on critical failure {{c1::the creature is dying value increases by one.}}		Action::Basic Rule
+Hh(tH	PF2E Cloze	Pathfinder_2	If you use the administer first aid action to stop bleeding, then you attempt to medicine check {{c1::against the DC of the effect that caused the persistent bleeding::difficulty}}. on success, {{c2::the creature gets to attempt to flat check to end the bleeding}}. on critical failure {{c3::immediately takes an amount of damage equal to the persistent bleed damage}}.		Action::Basic Rule
+&)b/T	PF2E Cloze	Pathfinder_2	How many actions does it take to treat poison? {{c1::just one}}		Rule
+as}lS	PF2E Cloze	Pathfinder_2	When you treat poison you make a {{c1::medicine}} check against {{c2::the poisons DC}}. after you treat poison for a creature, you can't try again {{c3::until after the next time the creature attempts to save against the poison}}. you add a circumstance bonus or penalty {{c4::to the creatures next saving check}}, plus {{c5::four}} for critical success, +{{c5::2}} for success, or {{c5::minus two}} for critical failure.		Action::Basic Rule
+=v7XD	PF2E Cloze	Pathfinder_2	 how long does it take to do the treatment wounds activity? {{c1::10 minutes}}		Rule
+i0TZ4	PF2E Cloze	Pathfinder_2	How often can a target have treat wounds done on them? {{c1::once per hour}}		Rule
+DNn.B	PF2E Cloze	Pathfinder_2	When taking the treat wounds action, on a critical success you heal {{c3::4d8}} hit points {{c4::and the wounded condition is removed.}} on success the target regains {{c5::2D8}} hit points and {{c6::the wounded condition is removed.}} on critical failure {{c7::the target takes 1D8 damage}}.  you can extend the time taken to {{c2::an hour}} to {{c1::double the hit points regained.}}		Action::Basic Rule
+.[FaC	PF2E Cloze	Pathfinder_2	Can an animal remember commands from one round to another? {{c1::no}}		Rule
+uA1H7	PF2E Cloze	Pathfinder_2	You must spend as many actions on command and animal as {{c1::actions you want the animal to take.}}		Rule
+"/gk#6"	PF2E Cloze	Pathfinder_2	When taking the command and animal action, on critical failure {{c1::the animal misbehaves or misunderstands and takes some other action at determined by the GM.}}		Rule
+?FSQA	PF2E Cloze	Pathfinder_2	If an animal {{c1::has the helpful condition with respect to you,}} you {{c2::increase your degree of success by one step}} for the command an animal action.		Rule
+U@*j3	PF2E Cloze	Pathfinder_2	The create a forge activity requires what skill? {{c1::society}}		Rule
+N]go6	PF2E Cloze	Pathfinder_2	When using the creative forgery activity, what DC do you need to beat to create a forgive good enough quality that passive observers won't notice it? {{c1::DC 20}}		Rule
+B4j9T	PF2E Cloze	Pathfinder_2	What creating a forgery, if you don't need to match a particular person's handwriting, then you gain {{c1::a +4 circumstance bonus}} to your check 		Rule
+QI)s	PF2E Cloze	Pathfinder_2	Do you gain the circumstance bonuses from cover when making hides checks? {{c1::yes}}		Rule
+C,^g8	PF2E Cloze	Pathfinder_2	 a successful hide shakes changes your state from observed to {{c1::hidden}}		Rule
+Q>f:6	PF2E Cloze	Pathfinder_2	If you attack someone while hidden, they are {{c1::flat footed to you for that attack}}		Rule
+e4{N4	PF2E Cloze	Pathfinder_2	On a failure result for sneak action, your state moves from undetected to {{c1::hidden}}		Rule
+hNPDN	PF2E Cloze	Pathfinder_2	On a critical failure on sneak action, your state becomes {{c1::observed}} from hidden		Rule
+q:eqU	PF2E Cloze	Pathfinder_2	Determining the cardinal directions using the sun would be {{c1::an untrained}} level to ask for sense direction		Rule
+[GfAH	PF2E Cloze	Pathfinder_2	Finding an overgrown path in the forest would be {{c1::a trained}} level use of sense direction		Rule
+,`BC7	PF2E Cloze	Pathfinder_2	Navigating amaze would be {{c1::an expert}} level use of sense direction		Rule
+PKrkT	PF2E Cloze	Pathfinder_2	How frequently do you need to make survival checks when tracking something? {{c1::once per hour}}		Rule
+G2&2D	PF2E Cloze	Pathfinder_2	A failure on a tracking action means {{c1::you lose the trail but can try again after an hour}}		Rule
+qVX4P	PF2E Cloze	Pathfinder_2	 critical failure at the tracking action means you lose a trail and {{c1::cannot try again for 24 hours}}		Rule
+58%hD	PF2E Cloze	Pathfinder_2	Difficulty for a tracking action for the relatively fresh tracks of a rampaging bear through the planes, is {{c1::trained DC-15}}		Rule
+?|U4Q	PF2E Cloze	Pathfinder_2	The difficulty level of tracking a panther through a jungle is {{c1::expert DC 20}}		Rule
+SyT2P	PF2E Cloze	Pathfinder_2	The difficulty level of tracking tracks after rain is {{c1::expert DC-20}}		Rule
+5U%;Q	PF2E Cloze	Pathfinder_2	The difficulty of tracking on services that don't hold tracks like a rock {{c1::is master DC-30}}		Rule
+8KuhL	PF2E Cloze	Pathfinder_2	The difficulty level of tracking a tiny creature like a mouse is {{c1::master DC-30}}		Rule
+mNd/N	PF2E Cloze	Pathfinder_2	On attempting to steal something from a pocket or somewhere protection, you take a -{{c1::5}} penalty to your thievery check		Rule
+y-!^L	PF2E Cloze	Pathfinder_2	Can you attempt to pick a pocket if you are not trained in thievery? {{c1::no}}		Rule
+IF{;9	PF2E Cloze	Pathfinder_2	 if you have the encumber condition can you take a {{c2::-10-ft}} penalty to your speed and you also {{c1::have the clumsy 1 condition}}		Rule::Condition
+*e7$M	PF2E Cloze	Pathfinder_2	If in Pathfinder if you are carrying another medium sized creature, their bulk is {{c1::6}}		Rule
+d;|L8	PF2E Cloze	Pathfinder_2	 if you are dragging something, you treat it's bulk as {{c2::half}}.  the normal speed when dragging something is roughly {{c1::5}} ft per round		Rule
+ZCKn	PF2E Cloze	Pathfinder_2	 how many actions does it take to retrieve an item from a backpack? one action to take off the backpack, {{c1::one action to remove the item, and one action put the backpack back on, if you wish to do so.}}		Rule
+kc8r4	PF2E Cloze	Pathfinder_2	 checks involving shoddy quality items have a {{c1::-2 item penalty}}		Rule
+_kP`T	PF2E Cloze	Pathfinder_2	 if you meet or exceed the strength or listed for armor, then you {{c1::decrease its speed penalty by 5}} ft and {{c2::no longer take the armors check penalty}}		Rule
+yx$PD	PF2E Cloze	Pathfinder_2	 a suit of armor that's carried rather than worn has {{c1::one}} additional bulk.		Rule
+}cG,6	PF2E Cloze	Pathfinder_2	If armor has the comfort trade, then {{c1::you can sleep in it without penalty}}		Rule
+sE8dU	PF2E Cloze	Pathfinder_2	If armor has the flexible trade then {{c1::you don't apply it's check penalty to acrobatics or athletics checks.}}		Rule
+^.9mC	PF2E Cloze	Pathfinder_2	If armor has the bulwark trait then {{c1::you add a +3 modifier instead of your dexterity to reflex saves}}		Rule
+M2yxM	PF2E Cloze	Pathfinder_2	 does a shield take up a hand? {{c1::Yes unless it is a buckler}}		Rule
+=.O;7	PF2E Cloze	Pathfinder_2	Attacks with improvised weapons take a -{{c1::2}} penalty		Rule
+6^`rI	PF2E Cloze	Pathfinder_2	Does reloading a weapon require a free hand? {{c1::yes}}		Rule
+Od~b1	PF2E Cloze	Pathfinder_2	If a weapon in Pathfinder is listed as 1+ hands, that means {{c1::that you can hold it in one hand, but you need two hands to fire it}}		Rule
+=*W86	PF2E Cloze	Pathfinder_2	The backstabber weapon trait means that when {{c1::you hit a flat footed creature, the weapon deals one precision damage in addition to its normal damage.}}		Rule
+iC^[8	PF2E Cloze	Pathfinder_2	A weapon with the backswing trait {{c1::adds a +1 circumstance bonus to your next attack on your turn if you missed with this weapon on a previous attack.}}		Rule
+HUzEV	PF2E Cloze	Pathfinder_2	 does an ability that changes the size of a weapons normal damage dice changed size of its deadly die? {{c1::no}}		Rule
+KCaV6	PF2E Cloze	Pathfinder_2	 the deadly weapon trait means {{c1::that on a critical hit the weapon adds a weapon damage die of the listed size. }}		Rule
+K96(I	PF2E Cloze	Pathfinder_2	 is the extra die of damage due to the deadly trait added before or after doubling damage for critical hit? {{c1::after}}		Rule
+Q1M}G	PF2E Cloze	Pathfinder_2	Weapons with the disarm shove or trip traits, allow you to {{c1::drop the weapon}} on a critical failure instead of the usual effects		Rule
+O$rRM	PF2E Cloze	Pathfinder_2	Weapons with the disarm, grapple, shove, or trip traits allow you to {{c1::add the weapon's item bonus}} to your {{c2::athletic check}}		Rule
+TdxhE	PF2E Cloze	Pathfinder_2	A weapon with the fatal trait, {{c1::on a critical hit, increases all the weapons damage dice to that size and adds on additional damaged die of the listed size::two effects}}		Rule
+iXcN8	PF2E Cloze	Pathfinder_2	For a weapon with the finesse trait, what modifier do you use on your attack rolls for a melee weapon? {{c1::dexterity}} 		Rule
+dG9Z3	PF2E Cloze	Pathfinder_2	For a weapon with a finesse trade, what do you use as your modifier when calculating damage? {{c1::strength, as normal}}		Rule
+hg(FR	PF2E Cloze	Pathfinder_2	You can use a non-lethal weapon to make a lethal attack with a {{c1::-2}} {{c2::circumstance}} penalty		Rule
+rq^}E	PF2E Cloze	Pathfinder_2	If a weapon has the propulsive trait, then {{c1::you had half your strength modifier to damage rolls}}		Rule
+T@)e9	PF2E Cloze	Pathfinder_2	 a weapon with a sweep trait {{c1::adds a +1 circumstance bonus to your attack role if you hardly attempted attack against a different target this term with this sweat}}		Rule
+QY3=	PF2E Cloze	Pathfinder_2	 a weapon with the twin trait {{c1::is intended to be used as a pair. when attacking with it, add a circumstance bonus to the damage roll equal to the weapon's number of damage dice if you for previously attacked with different weapon of the same type this turn.}}		Rule
+j*@NU	PF2E Cloze	Pathfinder_2	A weapon with the volley trait takes a {{c1::-2}} penalty within the listed range increment		Rule
+Pg]_B	PF2E Cloze	Pathfinder_2	If an alchemist wants quick access to their potions or healer wants quick access to the Healers tools without spending an action to get them, they may want to consider kidding what item? a {{c1::bandolier}}		Rule
+r%COS	PF2E Cloze	Pathfinder_2	 a candle sheds {{c1::dim}} light in a {{c2::10}}-ft radius		Rule
+3Bi5N	PF2E Cloze	Pathfinder_2	 a creature moving into a square with caltrops must exceed a DC {{c1::14}} {{c2::acrobatics}} check or take {{c3::one D4 piercing damage and one persistent bleed damage::damage}}. they have a -{{c4::5}} ft penalty to their speed as long as they are taking bleed damage. an {{c5::interact}} action lets someone {{c6::pluck the caltrop}} to {{c7::reduce the DC to stop the bleeding.}}		Rule
+F[*.A	PF2E Cloze	Pathfinder_2	 if you use a climbing kit, you climb {{c1::half as quickly to a minimum of 5 ft::speed}} but {{c2::you may attempt to DC5 flat check whenever you critically fail in order to prevent a fall.::benefit}}		Rule
+gU$ZS	PF2E Cloze	Pathfinder_2	Picking a simple lock requires {{c1::three}} successful DC {{c2::20}} thievery checks		Rule
+^biCK	PF2E Cloze	Pathfinder_2	 how many rounds does it take to apply manacles to an unwilling or unsubdued  target? {{c1::you can't}}		Rule
+)f>`J	PF2E Cloze	Pathfinder_2	 a creature with its legs manacled {{c2::takes a minus 15 ft circumstance penalty to its speed}}.  if on its hands, {{c1::it must make a DC5 flat check when attempting any manipulate action.}}		Rule
+T3vTA	PF2E Cloze	Pathfinder_2	 if you throw a burning flask of oil, you must succeed at a {{c1::DC-10 flat check for the oil to ignite.}} if the oil ignites the target takes {{c2::1D6 fire damage.}}  		Rule
+"[#MFV"	PF2E Cloze	Pathfinder_2	 how far away can a signal whistle be heard across open terrain?  {{c1::half a mile}}		Rule
++w_/G	PF2E Cloze	Pathfinder_2	 a torch sheds bright light in a {{c1::20}}-ft radius and dim light to the next {{c2::20}} ft. it can be used as an improvised weapon which deals {{c3::one before bludgeoning damage plus one fire damage.}}		Rule
+1PxR6	PF2E Cloze	Pathfinder_2	 a magical minor healing potion heals {{c1::1D8}} hit points. and an alchemical lesser elixir of life restores {{c2::1D6}} hit points and {{c3::grants a plus one item bonus to saving throws against diseases and poisons for 10 minutes.}}		Rule
+p3^a6	PF2E Cloze	Pathfinder_2	 how much does it cost to hire an unskilled hire length for a day? {{c1::1 sp}}		Rule
+@`J{2	PF2E Cloze	Pathfinder_2	 the cost of living at a subsistence level is {{c1::4 SP}} per week		Rule
+8*{aF	PF2E Cloze	Pathfinder_2	When renting an animal if the vendor believes the animal might be put in danger, they typically {{c1::require deposit equal to the purchase price.}}		Rule
+oFd`A	PF2E Cloze	Pathfinder_2	Most animals panic in battle. when combat begins they become {{c1::frightened 4}} and {{c2::fleeing}} as long as they are {{c1::frightened}}. if you {{c3::successfully command an animal}} you can keep it from fleeing but this does not remove the {{c1::frightened}} condition. 		Rule
+m3D-7	PF2E Cloze	Pathfinder_2	 if you have the blinded condition you cannot see. {{c2::all normal terrain is difficult for you::movement effect}}. you cannot detect anything using vision. you automatically critically fail perception checks which require you to be able to see, if vision is your only precise sense, {{c3::you take a -4 status penalty}} to perception checks. you are immune to {{c1::visual effects}}		Rule::Condition
+Mm}Q8	PF2E Cloze	Pathfinder_2	 if you have the clumsy condition, you take a status penalty equal to the condition value to {{c1::all dexterity based checks and DCs, including AC.}}		Rule
+PE2b1	PF2E Cloze	Pathfinder_2	 are area effects subject to the flat check from the concealed condition? {{c1::no}}		Rule
+hrYvU	PF2E Cloze	Pathfinder_2	A creature that you are concealed from must succeed at a {{c1::DC-5 flat check}} in order to a target you with an attack, spell, or other effect.		Rule
+"#Obe1"	PF2E Cloze	Pathfinder_2	 if you have the confused condition, you {{c3::attack wildly}}. you are {{c4::flat footed::defensive vonsequence}}, you treat no one {{c5::as your ally}}, and you cannot {{c6::delay}}, {{c7::ready}}, or {{c8::use reactions}}.<br>you use all your actions to {{c9::strike or cast offensive cantrips}}. your targets are determined {{c10::randomly by the GM}}. if you have no viable targets, {{c11::you target yourself}}, automatically hitting but not {{c12::scoring the critical}}. each time {{c1::you take damage from an attack or spell}} you can attempt a {{c2::DC 11 flat check}} to recover and end this condition.		Rule::Condition
+HE1vF	PF2E Cloze	Pathfinder_2	 if you have the controlled condition, does your controller have to spend actions to control you? {{c1::no}}		Rule
+.PlZH	PF2E Cloze	Pathfinder_2	 if you have the dazzled condition, then envision is your only precise sense, everything is {{c1::concealed}} from you		Rule
+u3:AG	PF2E Cloze	Pathfinder_2	 if you have the deafened condition you cannot hear. you automatically critically fail {{c2::perception}} checks that require you to be able to hear. you take a -{{c3::2}} {{c4::status}} penalty to perception checks for {{c5::initiative}} and checks that involves sound together with other senses. if you perform an action with the {{c1::auditory}} trait, {{c6::you must succeed at a DC5 flat check or the action is lost}}. you are immune to {{c1::auditory}} effects.		Rule::Condition
+g`^&6	PF2E Cloze	Pathfinder_2	 if you have the Doomed condition then {{c3::the value of what you die is reduced by your Doom value}}. if your maximum dying value is {{c4::reduced to zero}}, you {{c5::die instantly}}. when you die, you are no longer doomed. You're doomed value {{c1::decreases by one}} each time you {{c2::get a full night's rest.}}		Rule::Dying
+zyP1L	PF2E Cloze	Pathfinder_2	 if you have the drained condition, you take a {{c1::status}} penalty equal to your drained value on {{c2::constitution based checks}}. you also {{c3:: lose a number of hit points equal to your level times the drained value and your maximum hit points are reduced by the same amount}}. each time you {{c4::take a full night's rest}}, your drained value {{c5::decreases by one}}. this increases {{c6::your maximum hit points}}, but {{c6::you don't immediately recover the lost hit points.}}		Rule::Condition
+Jg2OL	PF2E Cloze	Pathfinder_2	 if you have the encumbered condition then you also have the {{c2::clumsy one}} condition and take a {{c1::10}}-ft penalty to all your speeds.		Rule::Condition
+Dy@.B	PF2E Cloze	Pathfinder_2	 no penalty may reduce your speed below {{c1::5}} ft		Rule
+?joV6	PF2E Cloze	Pathfinder_2	If you have the enfeebled condition then you take a {{c1::status}} penalty to {{c2::all strength based roles and DCs, including strength-based damage rolls}}		Rule::Condition
+J?mTA	PF2E Cloze	Pathfinder_2	If you had the fascinated condition, then {{c2::you are a compelled to focus your attention on something::flavor}}. you take a minus {{c3::two}} {{c4::status}} penalty to {{c5::perception and skill checks::two things}}, and you can't use actions with the {{c6::concentrate}} trait. this condition ends if {{c1::the creature you are fascinated with use hostile actions against you or any of your allies.}}		Rule::Condition
+O$s?9	PF2E Cloze	Pathfinder_2	 if you had the fatigue condition, then you take a minus {{c1::one}} {{c2::status}} penalty to {{c3::AC}} and {{c4::saving throws}}. while exploring {{c5::you can't choose an exploration activity}}. recover from fatigue after {{c6::a full night's rest.}}		Rule::Condition
+4i&j	PF2E Cloze	Pathfinder_2	 if you are flat footed, then you take a minus tw<br>{{c1::two}} {{c2::circumstance}} penalty to {{c3::AC}}.		Rule::Condition
+].iL8	PF2E Cloze	Pathfinder_2	If you had the fleeing condition, {{c1::you must run away from something as expediently as possible, using all of your actions to try to escape.}}		Rule
++Xy{D	PF2E Cloze	Pathfinder_2	 if you have the frightened condition, then you {{c3::take a status penalty with this value to all your checks and DCs. }}unless specified otherwise, {{c1::at the end of each of your turns::when}}, the value of your frightened condition {{c2::decreases by one}}		Rule::Condition
+Y<`GC	PF2E Cloze	Pathfinder_2	If you have the grabbed condition, then you also have the {{c1::flat footed}} and {{c2::immobilized}} conditions. if you attempted {{c3::manipulate}} action while grabbed, {{c4::you must succeed at a DC5 flat check or it is lost}}		Rule::Condition
+!+WOJ	PF2E Cloze	Pathfinder_2	When you are hidden from a creature, that creature knows {{c1::the space you are in but not exactly where you are}}. you typically become hidden by using the {{c2::hide}} action. when seeking a creature using only {{c3::imprecise}} senses, it remains {{c4::hidden}} rather than {{c5::observed}}. any creature you're hidden from {{c6::is flat footed}} to you and it must succeed at {{c7::a DC-11 flat check}} when targetting you with an attack{{c8::. area effects}} are not subject to this flat check.		Rule::Condition
+@>YsM	PF2E Cloze	Pathfinder_2	 if you have the paralyzed condition, you have the {{c1::flat-footed}} condition and cannot act except {{c2::to use only mental actions.}}		Rule::Condition
+Szp@H	PF2E Cloze	Pathfinder_2	 when invisible you cannot be seen. you are {{c1::undetected}} to everyone. you become {{c2::hidden}} to that creature if they succeed at a {{c3::perception}} check against your {{c4::stealth DC}} until you {{c5::Sneak}} to become {{c1::undetected}} again. if you become invisible when someone can already see you, you start out {{c2::hidden}} rather than {{c1::undetected}} to the observer.		Rule::Condition
+^=CyS	PF2E Cloze	Pathfinder_2	 if you have the petrified condition then you have been trying to stone. you cannot act or send anything. you become an object with bulk {{c2::double your normal bulk}}, AC{{c3:: 9}}, hardness {{c4::8}}, and the same hit points you have when you are alive. The statue is destroyed you {{c1::immediately die}}.		Rule::Condition
+d/s@3	PF2E Cloze	Pathfinder_2	 if you are prone, then you have the {{c1::flat footed}} condition and take a  -{{c2::2}} {{c3::circumstance}} penalty to attack rolls. The only move actions you can do when you're prone are {{c4::crawl}} and {{c5::stand}}. you can take cover while prone to hunker down and get cover against range attacks even if you don't have an object to get behind, gaining a +{{c6::4}} {{c7::circumstance}} bonus to AC versus range attacks although you remain {{c8::flat footed.}}		Rule::Condition
+lO$EF	PF2E Cloze	Pathfinder_2	Persistent damage usually automatically ends after {{c1::1 minute}} in Pathfinder		Rule
+|v@7Q	PF2E Cloze	Pathfinder_2	 a player can use {{c1::two}} actions to give appropriate help to someone suffering persistent damage to {{c2::let them immediately make an additional flat check possibly with a modifier to stop it.}}		Rule
+`r)CE	PF2E Cloze	Pathfinder_2	When do the changes in your number of actions from quicken, slowed, or stunt take effect{{c1::? The beginning of your turn, so they do not affect you immediately if you gain them in the middle of your turn}}		Rule
+dv~dK	PF2E Cloze	Pathfinder_2	 if you have the quickened condition, you {{c2::gain one additional action and the start of your turn each round}}.  is multiple sources are giving you the quick and condition, {{c1::these do not stack}}		Rule::Condition
+fc:3T	PF2E Cloze	Pathfinder_2	If you have the restrained condition, then you also have the {{c1::flat-footed}} and {{c2::immobilized}} conditions and cannot use any actions with the {{c3::attack}} or {{c4::manipulate}} traits except to attempt to {{c5::Escape}} or {{c6::Force Open}} your bonds.		Rule::Condition
+:GZ*L	PF2E Cloze	Pathfinder_2	 if you have a sickened condition,  you take a {{c1::status}} penalty equal to this value to {{c2::all your checks and DCs.}} you cannot willingly {{c3::ingest anything}}, including {{c3::elixirs and potions}}, while sickened. you can spend a single action to {{c4::retch}} to attempt to recover, which lets you make a {{c5::fortitude}} save against {{c6::the DC the effect that made you sickened}}. on success reduce your value by {{c7::one}} or by {{c7::two}} on a critical success.		Rule::Condition
+d8&aM	PF2E Cloze	Pathfinder_2	 if you have the slowed condition, then you {{c1::reduce the number of actions gained at the start of your turn by that amount.}}		Rule
+hO-;2	PF2E Cloze	Pathfinder_2	 if you are stunned, you {{c1::cannot act}}. The number after stunned indicates {{c2::how many actions that you lose}}. sometimes stunned will instead have a duration. 		Rule::Condition
+O7nbG	PF2E Cloze	Pathfinder_2	 if you have the stupefied condition, then you take a {{c2::status}} penalty equal to its values on {{c3::intelligence wisdom and charisma based checks and DCs}}.  anytime you attempt to cast a spell on stupefied, the spell is disrupted unless {{c1::you succeeded a flat check with a DC equal to 5 + value.}}		Rule::Condition
+pb3_B	PF2E Cloze	Pathfinder_2	 if you have the unconscious condition, then you take a -{{c1::4}} {{c2::status}} penalty to {{c3::AC}} {{c4::perception}} and {{c5::reflex saves}}, and you have the {{c6::blinded}} and {{c7::flat-footed}} conditions.		Rule::Condition
+X/B)B	PF2E Cloze	Pathfinder_2	 a cantrip is always automatically heightened to {{c1::half your level, rounded up. for typical spell caster, this means it's level is equals the highest level spell you have.}}		Rule
+@^{QL	PF2E Cloze	Pathfinder_2	How to focus spells interact with heightening? {{c1::focus spells are automatically heightened to half your level rounded up.}}		Rule
+Dbf9A	PF2E Cloze	Pathfinder_2	 you may never have more than {{c1::three}} focus points		Rule
+Lq@w1	PF2E Cloze	Pathfinder_2	If a spell has the incapacitation trait, then any creature of {{c1::more than twice the spells level}} treats the result of their check to prevent being incapacitated {{c2::as one degree of success better.}}		Rule
+C4x5G	PF2E Cloze	Pathfinder_2	 you use your {{c1::charisma}} stat modifier as the ability modifier for casting innate spells unless otherwise specified		Rule
+/H.AS	PF2E Cloze	Pathfinder_2	 if a spell has a material component, then it adds the {{c1::manipulate}} trait to the cast a spell action.		Rule
+V0Wh8	PF2E Cloze	Pathfinder_2	If a spell has a somatic component, then it adds a {{c1::manipulate}} action to the cast a spell action		Rule
+TH9SI	PF2E Cloze	Pathfinder_2	If a spell has the verbal component, then it adds a {{c1::concentrate}} trait to the cast a spell action		Rule
+|kY)1	PF2E Cloze	Pathfinder_2	 if a spell has the focus component, then it has a {{c1::manipulate}} trait to the cast a spell action		Rule
+:F5>5	PF2E Cloze	Pathfinder_2	 do you need a free hand to cast a spell with a material component? {{c1::yes}}		Rule
+lnRQL	PF2E Cloze	Pathfinder_2	 do spells with a somatic component require you to have a free hand? {{c1::no}}		Rule
+wctz7	PF2E Cloze	Pathfinder_2	Do spells with a verbal component require you to have a free hand? {{c1::no}}		Rule
+"#d.ID"	PF2E Cloze	Pathfinder_2	If a spellcaster dies or think capacitated during the spells duration, does the spell stop? {{c1::no}}		Rule
+*7IoT	PF2E Cloze	Pathfinder_2	Impath finder, how many actions does it take to dismiss a spell? {{c1::1}}		Rule
+%<niG	PF2E Cloze	Pathfinder_2	 if a spell says that it lasts until your next daily preparations, on the next day you {{c1::can refrain from preparing a new spell in that spell slot}} to extend its duration to the next day.		Rule
+s.R6U	PF2E Cloze	Pathfinder_2	 when you automatically identify a spell, do you know the level to which it was heightened? {{c1::yes}}		Rule
+=VyVP	PF2E Cloze	Pathfinder_2	 under what circumstances can you automatically identify a spell? {{c1::if you have prepared that spell or have in your repertoire}}		Rule
+G,l34	PF2E Cloze	Pathfinder_2	 what components does the alarm spell have? {{c1::all three}}		Rule
+KcUu9	PF2E Cloze	Pathfinder_2	 what components does the acid splash cantrip have? {{c1::somatic and verbal}}		Rule
+kXNfF	PF2E Cloze	Pathfinder_2	 the acid splash cantrip {{c2::deals d6 acid damage damage plus one splash acid damage.}} on a critical success, {{c1::the target also takes one persistent acid damage.}}		Spell
+wA6R9	PF2E Cloze	Pathfinder_2	Empathfinder, what are the components of the bark skin spell?{{c1:: somatic and verbal}} duration? {{c2::10 min}} effect? {{c3::gain resistance 2 to bludgeining and piercing damage and weakness 3 to fire}} can it be used on a target besides the caster? {{c4::yes, if willing, at touch range}}		Spell
+<(S*3	PF2E Cloze	Pathfinder_2	The bless spell has the {{c2::somatic and verbal}} components. it's area is {{c3::a 5-ft emanation}}. it's duration is{{c4:: 1 minute}}. effect: {{c5::you and your allies in the area gain a +1 status bonus to attack roles.}} once per turn, starting {{c6::the turn after you cast bless}}, you can use a single action, which has the concentrate trait, to {{c7::increase the emanation s radius by 5 ft.}} blessed can counteract {{c1::bane}}.		Spell
+$!3b2	PF2E Cloze	Pathfinder_2	The blur spell has components {{c1::somatic and verbal}}. it affects{{c2:: one creature}} at {{c3::touch range::range}}. it's duration is {{c4::1 minute}}. {{c5::The target becomes concealed, but cannot use as concealment to hide or seek.::effect}}		Spell
++9u=F	PF2E Cloze	Pathfinder_2	 the spell burning hands has {{c1::somatic and verbal}} components. its area is a {{c2::15-ft cone}}. The saving throw is a {{c3::basic reflex save}}. {{c4::you do 2d6 fire damage to creatures in the area.::effect}}		Spell
+TJ>2	PF2E Cloze	Pathfinder_2	 the spell charm has {{c1::somstic and verbal}} components. it targets {{c2::one creature}} and has a range of {{c3::30 ft}}. it's duration is {{c4::1 hour}}. The Target must make a {{c5::will}} saving throw with a +{{c6::4}} {{c7::circumstance}} bonus if {{c8::you or your allies recently threatened it.}} The spell ends if {{c9::you use a hostile action}}. on a critical success, {{c10::the target is unaffected and is aware you tried to charm.}} on success {{c10::it is unaffected but thinks spell was something harmless}}. on failure {{c10::the target becomes friendly towards you. it's already friendly becomes helpful, it can't use hostile actions against you.}} on critical failure {{c10::the targets becomes helpful towards you when it cannot use hostile actions.}}		Spell
+?(yy9	PF2E Cloze	Pathfinder_2	The chill touch cantrip has the {{c1::somatic and verbal}} components. it has the range of {{c2::touch}} and targets{{c3:: one creature}}. saving throw is {{c4::fortitude}}. when used against the living creature, {{c5::it deals negative damage equal to 1D4 plus your spell casting modifier.}} on critical {{c6::failure the target is enfeebled one for one round.}} if targeting an undead creature, {{c7::the target is flat footed for one round on failed fortitude save.}} on a critical failure{{c8::, the target is also fleeing for one round unless it's succeeded will save.}}		Spell
+Un)G1	PF2E Cloze	Pathfinder_2	 does the chill touch cantrip have the attack trait? {{c1::yes}}		Rule
+%IIoA	PF2E Cloze	Pathfinder_2	 does burning hands have the attack trait? {{c1::no}}		Rule
+d:(BS	PF2E Cloze	Pathfinder_2	 does the acid splash spell have the attack trait? {{c1::yes}}		Rule
+"6(#JV"	PF2E Cloze	Pathfinder_2	 does the blur spell have the attack trait? {{c1::no}}		Rule
+Co$wI	PF2E Cloze	Pathfinder_2	 does the color spray spell have the attack trait? {{c1::no}}		Rule
+0L?>A	PF2E Cloze	Pathfinder_2	 the color spray spell has the {{c1::somatic and verbal}} components. it's area is {{c2::a 15-ft cone}}. The Target makes a {{c3::will}} save. on critical success it is {{c4::unaffected}}. on success {{c4::it is dazzled for one round}}. on failure {{c4::it is stunned 1, blinded for one round, and dazzled for 1 minute.}} on critical failure {{c4::the creature is stunned for one round and blinded for one minute.}}		Spell
+erZ-8	PF2E Cloze	Pathfinder_2	 the command spell has {{c1::somatic and verbal}} components. it affects {{c2::one creature::target}} within {{c3::30}} ft. The duration is {{c4::until the end of the Target's next turn}}. you commanded the target to {{c5::approach you, run away, release what it is holding, drop prone, or stand in place. it cannot delay or take any reactions until it has obeyed your command}}. The target makes a {{c6::will}} save. on success {{c7::it is unaffected}}. on failure {{c7::for the first action it's next term, the creature must use a single action to do is you command}}. on critical failure {{c7::the target must use all its actions on its next turn to obey your command.}}		Spell
+)wpv1	PF2E Cloze	Pathfinder_2	 the dancing lights cantrip has {{c1::the somatic inverbal}} components. it's duration is {{c2::as long as he sustain it}}. it has a range of {{c3::120}} ft. its effect is to {{c4::create a four floating lights no two of which are more than 10 ft apart, each shedding light like a torch}}. when you sustain the spell you can {{c5::move any number of lights up to 60 ft.}}		Spell
+L_OHB	PF2E Cloze	Pathfinder_2	 the days cantrip has {{c2::somatic and verbal}} components. it affects {{c3::one}} creature within a range of {{c4::60}} ft. The duration is {{c5::one round}}. it does {{c6::mental}} damage equal {{c7::to your spell casting ability modifier}}, with {{c8::a basic will}} save. ift the Target critically fails, it is also {{c1::stunned 1}}		Spell
+l<ivL	PF2E Cloze	Pathfinder_2	The detect alignment spell has {{c1::somatic and verbal components}}. it's area is a {{c2::30}}-ft emanation. you choose one alignment and detect auras of that alignment. you receive no information beyond {{c3::presence or absence}}, only creatures {{c4::of level 6 or higher, unless they are undead, divine spell casters, or beings from the outer space}}, have alignment wars.		Spell
+Bi052	PF2E Cloze	Pathfinder_2	 the level {{c1::2}} heightening of detect alignment, allows you to {{c2::learn each auras location and strength}}		Spell
+FO6PU	PF2E Cloze	Pathfinder_2	The detect magic cantrip has {{c1::somatic and verbal}} components. it's area is a {{c2::30}}-ft emanation. {{c3::it gives you the information of the presence or absence of magic within that range::effect}}. you can choose to ignore magic that you are aware of. you detect a illusion magic only if {{c4::that magics affect has a lower level than the level of your detect magic spell.}}		Spell
+(]$b5	PF2E Cloze	Pathfinder_2	The disrupt undead spell has {{c1::somatic and verbal}} components. it targets {{c2::one undead creature}} at a range of {{c3::30}} ft. The target makes a {{c4::fortitude}} basic saving throw. it takes {{c5::1d6 positive damage + spellcasting ability modifier}}. if the creature critically fails, it is also {{c6::enfeebled 1 for one round}}.		Spell
+uOd%1	PF2E Cloze	Pathfinder_2	 when the spells chill touch his heightened the damage increases by {{c1::1D4 per level}}		Rule
+{OBlQ	PF2E Cloze	Pathfinder_2	 the spell Divine Lance has {{c2::somatic and verbal}} components. it targets {{c3::one creature}} at a range of {{c4::30}} ft. you make a range spell attack roll against the targets AC. on a hit, the target {{c5::takes damage of the chosen alignment type equal to 1D4 plus yourself casting modifier.}} if heightened, {{c1::the damage increases by 1D4 per level.}}		Spell
+{AfTS	PF2E Cloze	Pathfinder_2	 the electric arc cantrip has {{c2::somatic and verbal}} components. it targets {{c3::one or two creatures}} in a range of {{c4::30}} ft. they get {{c5::basic reflex}} saving throw. you deal {{c6::electricity}} damage equal to {{c7::1D4 plus your spell casting ability modifier}}. for each level the spell is heightened, {{c1::the damage increases by 1D4.}}		Spell
+)-i%F	PF2E Cloze	Pathfinder_2	 the fear spell has {{c3::somatic and verbal}} components. it targets {{c4::one creature}} with a range of {{c5::30}} ft. The target attempts {{c1::will}} save. on critical success they are {{c2::unaffected}}. on success they are {{c2::frightened one}}. on failure they are {{c2::frightened two}}. on critical failure they are {{c2::frightened three and fleeing for one round.}}		Spell
+to}H9	PF2E Cloze	Pathfinder_2	 the spell fleet step has {{c3::somatic and verbal}} components. it grants you a {{c2::30}}-ft status bonus to your speed for {{c1::1}} minute.		Spell
+C6fMH	PF2E Cloze	Pathfinder_2	The spell forbidding Ward has {{c2::somatic and verbal}} components. it targets {{c3::one ally and one enemy}} within {{c4::30}} ft. {{c1::it may be sustained for up to 1 minute::duration}}. The Target Ally gains a +{{c5::1}} {{c6::status}} bonus to {{c7::AC}} and {{c8::saving throws}} against the Target enemies attacks, spells, and other effects.		Spell
+U(=.2	PF2E Cloze	Pathfinder_2	 the cantrip ghost sound has {{c3::somatic and verbal}} components. it has a range of {{c4::30}} ft. it's duration is {{c5::as long as you sustain it.}} It creates an auditory illusion of simple sounds that has a maximum volume equal to {{c2::4 normal humans shouting.}} you can't create {{c1::intelligible words or other intricate sounds such as music.}}		Spell
+{+%!	PF2E Cloze	Pathfinder_2	 the spell grease has {{c1::somatic and verbal}} components. it's range is {{c2::30}} ft. it's duration is {{c3::1 minute.}}		Spell
+OXbq6	PF2E Cloze	Pathfinder_2	When the spell Grease targets an area, it covers {{c3::4 contiguous 5 ft squares}}. each creature standing on the greasy surface must succeed at a {{c4::reflex}} save or {{c5::acrobatics}} check against {{c6::your spell DC}} or {{c7::fall prone.}} creatures moving onto the greasy surface must attempt a {{c4::reflex}} save or an {{c8::acrobatics}} check to {{c9::balance}}. a creature that {{c1::steps}} or {{c2::crawls}} does not have to attempt to check or save		Spell
+}[S.9	PF2E Cloze	Pathfinder_2	If you cast the Grease spell on unattended object, then anyone trying to pick up the object {{c1::must succeed at an acrobatic check or reflex save against your spell DC to do so.}}		Rule
+azX(S	PF2E Cloze	Pathfinder_2	 if you cast the grease spell on an attended object, then the holder must make an {{c4::acrobatics}} or {{c5::reflex}} check against {{c6::your spell DC}}. on failure they take a  -{{c2::2}} {{c3::circumstance}} penalty to all checks using that object, on critical failure, {{c1::they drop it.}}		Spell
+8CAbM	PF2E Cloze	Pathfinder_2	 if you cast grease on a worn object, then the wearer gains of a +{{c3::2}} {{c4::circumstance}} bonus to {{c1::fortitude}} saves against {{c2::attemps to grapple them.}}		Spell
+-8*/J	PF2E Cloze	Pathfinder_2	 if you cast guidance on someone, then you cannot cast it on them again for{{c1:: 1 hour}}		Rule
+5*f]J	PF2E Cloze	Pathfinder_2	 the guidance cantrip has {{c1::verbal}} components. it has a range of {{c2::30}} ft. it's duration is {{c3::until the start of your next turn}}. it grant the target a plus +{{c4::1}} {{c5::status}} bonus one attack roll, perception check, saving throw, or skilled check.		Spell
+|3CF4	PF2E Cloze	Pathfinder_2	When you use the heal spell, it restores {{c1::1D8}} hit points to a willing living creature. if the target is undead, {{c2::you deal the same amount of positive damage to it}} and it gets a {{c3::basic fortitude}} save. if you use only a somatic component, the spell has range of {{c4::touch}}. if you add a verbal component, the range increases to {{c5::30}} ft and when healing you increase the hit points restored by {{c6::8}}. if you add a material component, then it targets all living and undead creatures in a {{c7::30}}-ft emanation. for each level this is heightened, {{c8::the healing or damage increases by 1D8 and the extra healing for the two action version increases by 8.}}		Spell
+~/<tT	PF2E Cloze	Pathfinder_2	 the spell hydraulic push has {{c1::somatic and verbal}} components. it targets {{c2::one creature or object}} in a range of {{c3::60}} ft. you make a {{c4::ranged spell attack}} roll. on success the target takes {{c5::3D6 bludgeoning damage and is knocked back 5 ft.}} on critical success it {{c6::takes 66 bludgeoning damage and it's not back 10 ft.}}		Spell
+c;a:Q	PF2E Cloze	Pathfinder_2	The spell invisibility has {{c2::material and semantic}} components and a duration of {{c3::10 minutes}}. if the Target uses a hospital action, {{c1::the spell ends after that hostile action is completed.}}. if heightened to level 4, the spell last {{c4::1 minute}} but {{c5::doesn't end with the Target uses a hostile action.}}		Spell
+Iv&DQ	PF2E Cloze	Pathfinder_2	 the jump spell has {{c2::somatic}} components. it causes you to jump {{c1::30}} ft in any direction.		Spell
+Rw%>	PF2E Cloze	Pathfinder_2	In pathfinder, the spell mage armor has {{c1::somatic and verbal}} components. it's duration is {{c2::until next time you make your daily preparations}}. you gain a {{c3::+1 item}} bonus to AC with dexterity cap +{{c4::5}}.		Spell
+JXnU3	PF2E Cloze	Pathfinder_2	 the spell made hand has {{c1::somatic and verbal}} components. Target {{c2::one unattended object of light bulb or less}} within {{c3::30}} ft. it's duration {{c4::is as long as you sustain it.}} it creates a magical hand either invisible or ghostly which {{c6::grabs the target object to moves it slowly up to 20 ft.}} when you sustain the spell {{c5::you can move the object in additional 20 ft.}}		Spell
+~w++6	PF2E Cloze	Pathfinder_2	 does magic missile have the attack trait? {{c1::no}}		Rule
+ElNz5	PF2E Cloze	Pathfinder_2	 the spell magic missile has {{c2::somatic and verbal}} components. it's ranges {{c3::120}} ft.  you may spend up to three actions to spend to send one missile per action. each missile automatically hits and deals {{c4::1d4+1}} {{c5::force}} damage. each missile may have a different target. if you should more than one missile the same target, {{c1::combine the damage before applying bonuses Palmer assistance is, and weaknesses.}}		Spell
+u0fdL	PF2E Cloze	Pathfinder_2	The spell magic weapon has {{c6::somatic and verbal}} components. it's range is {{c5::touch}}. it targets {{c4::one non-magical weapon that is unattended or wilded by you or willing allies.}} it's duration is {{c3::1 minute.}} he becomes a plus one striking weapon, gaining a +{{c2::1 item bonus}} to attack roles and {{c1::increasing the number of damage dice to two.}}		Spell
+N|<YQ	PF2E Cloze	Pathfinder_2	 the cantrip message has {{c3::verbal}} components. it targets {{c2::one creature}} at a range of {{c1::120}} ft.		Spell
+wkhE2	PF2E Cloze	Pathfinder_2	 the cantrip prestidigitation has {{c1::somatic and verbal}} components. it has a range of {{c2::10}} ft. each time you sustain the spell you choose one of four options. <br><br>you may {{c3::cook to cool warm or flavor 1 lb of non-living material}}. <br><br>you may{{c4:: lift to slowly lift an unattended object of light bulk one foot off the ground}}.<br><br> you may {{c5::make to create a temporary object or negligible bulk made of magical substance. The object looks crude and artificial and is extremely fragile. it can't be used as a tool weapon or spell component}}.<br><br> you {{c6::may tidy to color clean or soil and object of light bulb or less}}. if you concentrate for {{c7::1 minute per bulk}}, you can affect bigger items.		Spell
+~|W93	PF2E Cloze	Pathfinder_2	The cantrip produce flame has {{c2::somatic and verbal}} components. it has range {{c3::30}} ft and targets {{c4::one creature}}. you make a {{c5::spell attack}} roll against your targets {{c6::AC}}. on success you deal {{c7::1d4 fire damage plus your spell casting ability modifier.}} on a critical success, the target takes {{c7::double damage and 1D4 persistent fire damage.}} for each level this is heightened {{c1::both the regular and persistent damage increased by a die.}}		Spell
+kSC6J	PF2E Cloze	Pathfinder_2	The protection spell has {{c1::somatic and verbal}} components. it has a range of {{c2::touch}} and targets {{c3::one creature}}. it has a duration of {{c4::1 minute}}. you choose a specific alignment. The target gains a +{{c5::1}} {{c6::status}} bonus to {{c7::AC}} and {{c8::saving throws}} against creatures and effects of the chosen alignment. this bonus increases to +{{c9::3}} against {{c10::effects from such creatures that would directly control the target}} and against {{c11::attacks made by summit creatures.}}		Spell
+t]1Q8	PF2E Cloze	Pathfinder_2	Impath finder, the spell read aura has range {{c3::30 ft,}} targets {{c4::one object}}, it takes {{c5::1 minute}} to cast.  it will tell {{c6::you whether an item is magical and if so the school of magic.}} if the object is {{c1::illusory}} you detect this only if {{c2::the effect level is lower than the level of your read aura spell.}}		Spell
+l,=gM	PF2E Cloze	Pathfinder_2	 the spell ray of enfeeblement has {{c1::somatic and verbal}} components. it has range {{c2::30}} ft and targets {{c3::one creature}}. attempt a {{c4::ranged spell attack}} against the Target. if you succeed, the creature attempts a {{c5::Fortitude save}} in order to determine the spells effect. if you {{c6::critically succeeded on your attack role}}, {{c7::use the outcome for one degree as success worse than the result of the safe.}} on critical success, {{c8::the target is unaffected}}. on success the Target becomes {{c8::enfeebled 1}}. on failure at the target becomes {{c8::enfeebled 2}}. on critical failure the targrt becomes {{c8::enfeebled 3.}}		Spell
+KGFxL	PF2E Cloze	Pathfinder_2	The cantrip Ray of Frost has {{c1::somatic and verbal}} components. it has a range of {{c2::120 ft}} and targets {{c3::one creature}}. you make a {{c4::spell attack}} roll. The ray deals {{c5::cold}} damage equal to {{c6::D4 plus your spell casting ability modifier}}. on critical success, the target additionally {{c7::takes a minus 10 ft status penalty to its speed for one round.}} damage increases by {{c6::1D4}} for each level this is heightened.		Spell
+3Om|U	PF2E Cloze	Pathfinder_2	 the spell sanctuary has {{c1::somatic and verbal}} components. it has range {{c2::touch}} and targets {{c3::one creature}} with a duration of {{c4::one minute}}. creatures attempting to attack the Target must attempt a {{c5::will}} save each time. if the target {{c6::uses hostile actions}}, {{c7::the spell ends}}. for the result of the will safe, on critical success, {{c8::sanctuary ends}}. on success {{c9::the creature can freely attack the Target this term}}. on failure {{c11::the creature cannot attack the Target and waste the actions.}} it {{c10::cannot}} attempt further attacks against the Target this turn. on a critical failure {{c12::the creature waste the actions and cannot attempt to attack the Target for the rest of sanctuaries duration.}}		Spell
+vSlhJ	PF2E Cloze	Pathfinder_2	The shield spell has a {{c1::verbal}} components. it's duration is {{c2::until the start of your next turn}}. you gave a +{{c3::1}} {{c4::circumstance}} bonus to AC. you can use the {{c5::shield block}} reaction as if this were a shield with hardness {{c6::5}}. after you you shield block, {{c7::the spell ends}} and cannot be cast again for {{c8::10 minutes.}}		Spell
+XdRuO	PF2E Cloze	Pathfinder_2	 the spell shocking grasp has {{c1::somatic}} and {{c2::verbal}} components. it has range {{c3::touch}} and targets {{c4::one creature}}. you make a {{c5::melee spell attack}} roll. on a hit the target takes {{c6::2 D12}} {{c7::electricity}} damage{{c8::. if the target is wearing metal are made of metal}}, you gain a +{{c9::1}}  {{c10::circumstance}} bonus to {{c11::your attack role}} and the target also takes {{c12::1d4 persistent electricity damage}} on a hit.		Spell
+Mt.>8	PF2E Cloze	Pathfinder_2	The spell sleep has {{c1::somatic and verbal}} components. it has range {{c2::30 ft}} and targets {{c3::everyone within a 5-ft burst}}. The creatures must make {{c4::will}} saving throws. on a critical success they are {{c5::unaffected}}. on success {{c5::they take a -1 status is penalty to perception checks for one round}}. on a failure {{c5::they fall asleep and will wake up automatically after 1 minute.}} on critical failure {{c5::they fall asleep and we'll wake up automatically after 1 hour. }} 		Spell
+QGGWB	PF2E Cloze	Pathfinder_2	 do targets of the sleep spell fall prone? {{c1::no for the level one spell, but yes if I heightened fourth level}}		Rule
+wVhfH	PF2E Cloze	Pathfinder_2	 do targets of the sleep spell get to make perception checks to wake up? {{c1::no for the level one spell but yes for the heightened fourth level version.}}		Rule
+IBeo	PF2E Cloze	Pathfinder_2	 the cantrip stabilize has {{c1::somatic and verbal}} components. it targets {{c2::one dying creature}} at a range of {{c3::30 ft}}. The target {{c4::loses the dying condition}} but {{c5::remains unconscious at zero hit points}}		Spell
+}-rWB	PF2E Cloze	Pathfinder_2	The spell tangle foot has {{c1::somatic and verbal}} components. it has a range of {{c2::30 ft}} and targets {{c3::one creature}}. you attempt {{c4::a spell attack}} roll against the target. on critical success, the target has {{c5::immobilized}} condition and takes  {{c6::minus ten circumstance penalty to its speed}} for {{c7::one round}}. it can attempt to {{c8::escape}} against {{c9::your spell DC}}. on success the target takes a {{c6::ten foot circumstance penalty to speed}} for {{c10::one round}}.. on failure the target is unaffected.		Spell
+j*woQ	PF2E Cloze	Pathfinder_2	The cantrip telekinetic projectile has {{c1::somatic and verbal}} components. it is range {{c2::30 ft}} and targets {{c3::one creature}}. Make {{c4::ranged attack}} against the Target. if you hit, you deal damage equal to {{c5::one d6 plus your spell casting ability modifier.}}		Spell
+mdDrO	PF2E Cloze	Pathfinder_2	 the spell true strike has {{c3::verbal}} components. it's duration is {{c4::until the end of your turn}}. The next time you make an attack roll before the end of your turn, {{c5::roll the attack twice and use the better result}}. The attack {{c2::ignores circumstance penalties to the attack roll,}} and {{c1::any flat checks.}}		Spell
+VOdl5	PF2E Cloze	Pathfinder_2	The champion focus spell Lay on hands has {{c1::somatic}} components. it targets one willing living creature or one on dead creature and has a range of {{c2::touch}}. if you use it on a willing living target, you restore {{c3::six}} hit points. If the target is one of your allies they also gain a {{c4::plus two}} {{c5::status}} bonus to {{c6::AC}} for {{c7::one round}}. against an undead target, you deal {{c8::1D 6}} damage and it must attempt to basic fortitude save. if it fails it also takes a -{{c9::2}} {{c10::status}}  penalty to {{c11::AC}} for {{c12::one round}}. for each level it is heightened the amount of healing increases by {{c13::six}} and the amount of damage to the undead by {{c14::one d6.}}		Spell
+{E(cM	PF2E Cloze	Pathfinder_2	 the focus spell hurtling stone has {{c1::somatic}} components. and targets {{c2::one creature}} with a range of {{c3::60 ft.}} Make {{c4::a spell attack}} roll. you deal bludgeoning damage equal to {{c5::one d6 plus your strength modifier}}. for each level this is heightened, the damage increases by {{c6::1D6}}		Spell
+SiNm9	PF2E Cloze	Pathfinder_2	 The wizard focus spell hand of the apprentice has {{c1::somatic}} components. it targets {{c2::one creature}} at a range of {{c3::500 ft}}. you hurl a held  melee weapon which you are trained with at the target, making a {{c4::spell attack}} roll. on a success, you deal the weapon's damage as if you had hit it with a melee strike, but adding the {{c5::spell casting ability modifier}} to damage rather than your strength modifier. on a crit success, in addition to dealing double damage, you also {{c6::add the weapons critical specialization effect}}. regardless about come the weapons flies back to you and returns to your hand.		Spell
+=(lHC	PF2E Cloze	Pathfinder_2	 what is the name of the catastrophic event which occurred at the beginning of the history of Galarion?  {{c1::earthfall}}		Lore
+c<xX8	PF2E Cloze	Pathfinder_2	 what is the name of the human who founded the city of Absalom and became a god? {{c1::Aroden}}		Lore::Gods
+9=7h9	PF2E Cloze	Pathfinder_2	The island at the city of amstorm is on in Pathfinder has two names: the {{c1::isle of kortos}} and {{c2::starstone isle}}		Lore
+Y<&BF	PF2E Cloze	Pathfinder_2	 when the god Aroden was supposed to return what happened instead? he {{c1::died}}		Lore::Gods
+{c$fI	PF2E Cloze	Pathfinder_2	 the {{c3::inner sea region}} consists of the continent of {{c2::Avistan}} and the northern portion of the continent of {{c1::Garund}}		Lore
+U?}]C	PF2E Cloze	Pathfinder_2	 the continent that is supposed to be like Asia is called {{c1::Tian Xia}}		Lore
+`j(*B	PF2E Cloze	Pathfinder_2	In the Pathfinder setting, where do elves come from? {{c1::another planet}}		Lore
+l*9WP	PF2E Cloze	Pathfinder_2	In the Pathfinder world, what continent was destroyed by Earth fall? {{c1::Azlant}}		Lore
+aNu3E	PF2E Cloze	Pathfinder_2	In the Pathfinder setting, what is the frozen Arctic area in the north of the world called? {{c1::The crown of the world}}		Lore
+"0Q#:D"	PF2E Cloze	Pathfinder_2	In the Pathfinder setting, who judges the dead? the goddess {{c1::Pharasma}}		Lore::Gods
+>0Vf3	PF2E Cloze	Pathfinder_2	To compute the current year in the Pathfinder campaign setting, have the current real year to {{c1::2700}}.		Lore
+A@ba3	PF2E Cloze	Pathfinder_2	In the Pathfinder campaign setting, what is the date of Earth fall? {{c1::-5293 Absalom Reckowning}}		Lore
+/Ih^7	PF2E Cloze	Pathfinder_2	In the Pathfinder campaign setting, what is the date of the death of Aroden? {{c1::4606 AR}}		Lore
+O|f*3	PF2E Cloze	Pathfinder_2	What is the largest city in the inner sea region?  {{c1::Absalom}}		Lore
+O6049	PF2E Cloze	Pathfinder_2	The population of the city of Absalom is approximately {{c1::300,000}}		Lore
+"#,.o2"	PF2E Cloze	Pathfinder_2	What is the artifact that lies in the cathedral at the heart of the city of Absalom in Pathfinder? the {{c1::Starstone}}. what power does it have? {{c2::to make mortals into gods}}		Lore::Gods
+"JJ#0WduGf]"	PF2E Cloze	Pathfinder_2	Do ability score increases apply retroactively? That is, if you're level 5, and you get +2 Con and +2 Int, would you gain 1 hp for levels 1-4, and 1 skill and language for first level? {{c1::yes}}		Lore
+nItpS	PF2E Cloze	Pathfinder_2	 what is the name of the underground railroad like organization founded by hafling freedom fighters? {{c1::the bellflower Network}}		Lore
+&Fx:9	PF2E Cloze	Pathfinder_2	The {{c1::eagle knights}} are the protectors and defenders of the people of {{c2::Andoran}}.		Lore
+|)-DO	PF2E Cloze	Pathfinder_2	 the {{c2::council of pirate Lords}} who rule {{c3::the Shackles}} are called {{c1::the Free Captains}}		Lore
+<.2?3	PF2E Cloze	Pathfinder_2	{{c2::the mercenary order dedicated to upholding the law whatever it is}} are the {{c1::Hellknights}}		Lore
+}-A@P	PF2E Cloze	Pathfinder_2	What is the official publication of the in-world Pathfinder Society?   {{c1::Pathfinder Chronicles}}		Lore
+z*BxK	PF2E Cloze	Pathfinder_2	The Pathfinder society off of pines itself at odds with a more mercenary {{c1::Aspis Consortium}}		Lore
+(p<7M	PF2E Cloze	Pathfinder_2	 a monster with the fast healing ability {{c1::regains the given number of hip points at the beginning of it's turn}}		Rule
+m~VH8	PF2E Cloze	Pathfinder_2	A creature with a frightful presence forces each creature in the given are to make a {{c1::will}} save. regardless of the result, the creature is temporarily immune for {{c2::1 minute}}. on critical success,  the creature is {{c3::unaffected}}. on success, it is {{c3::frightened one}}. on failure it is {{c4::frightened two}}. on  critical failure it is {{c5::frightened 4}}		Rule
+!U_g6	PF2E Cloze	Pathfinder_2	When a creature uses the swallow whole ability, it can usually only swallow {{c2::one creature of the listed size}}, though it may be able to {{c1::swallow multiple smaller creatures}}		Rule
+.XI08	PF2E Cloze	Pathfinder_2	Can a creature attack another creature which it has swallowed? {{c1::no}}		Rule
+jpfZP	PF2E Cloze	Pathfinder_2	When a creature attempts to swallow another creature it has grabbed, it attempts an {{c2::athletic}} check opposed by the grabbed creature's {{c1::reflex DC}}		Rule
+tv)>D	PF2E Cloze	Pathfinder_2	 a swallowed creature has the {{c1::grabbed}} condition, the {{c2::slowed one}} condition, and has to {{c3::hold its breath or start suffocating.}}		Rule
+[eof4	PF2E Cloze	Pathfinder_2	 a swallow creature can attack the monster that swallowed it, but only with {{c1::unarmed attacks}} or {{c2::weapon of light bulk or less}}		Rule
+K/1*4	PF2E Cloze	Pathfinder_2	 an engulfing creature has the {{c1::flat footed}} condition against attacks from creatures it has swallow		Rule
+pVtXP	PF2E Cloze	Pathfinder_2	If a creature deals {{c2::piercing or slashing::two types}} damage equal to or exceeding the listed {{c3::rupture value}} from a {{c4::single}} attack to a creature which has swallowed it, {{c1::it cuts itself free}}		Rule
+}R%yK	PF2E Cloze	Pathfinder_2	A creature which is swallowed another creature dies in Pathfinder, other creatures can free to swallow creature by using {{c1::three}} actions to cut it open		Rule
+v>p<4	PF2E Cloze	Pathfinder_2	 a creature would be all around vision ability {{c1::cannot be flanked}}		Rule
+{]<;S	PF2E Cloze	Pathfinder_2	If a creature has the rend ability, it means that {{c1::if it hits the same enemy with two consecutive strikes of the listed type in the same round, then the monster automatically deals that strikes damage again}}		Rule
+qKr)5	PF2E Cloze	Pathfinder_2	 the Pathfinder society is ruled by a group of masked people known as the {{c1::Decemvirate}}		Lore
+vtp9D	PF2E Cloze	Pathfinder_2	Pathfinder: operators known as {{c1::venture captains}} coordinate teams of Pathfinder Society agents in their assigned regions.		Lore
+;j}OB	PF2E Cloze	Pathfinder_2	The headquarters of the Pathfinder Society is the {{c1::Grand Lodge::building}} in {{c2::Absalom::city}}		Lore
+|K1Q9	PF2E Cloze	Pathfinder_2	Pathfinder the large lake in the middle of the continent of Avistan is {{c1::Lake Encarthon}}		Lore
+`k6Q9	PF2E Cloze	Pathfinder_2	 the lake at the extreme north of the continent of Avistan is {{c1::the lake of mists and veils}}		Lore
+^=J`I	PF2E Cloze	Pathfinder_2	The ocean that the inner sea opens to on the west is the {{c1::Arcadian Ocean}}		Lore
+XQM@2	PF2E Cloze	Pathfinder_2	 the ocean that the inner sea opens to on the east is called {{c1::the Obari ocean}}		Lore
+Ici^I	PF2E Cloze	Pathfinder_2	 the first of Golarion's great empires was that of the {{c1::serpent folk}}		Lore
+TCxhM	PF2E Cloze	Pathfinder_2	 what two ancient civilizations were destroyed by Earthfall? {{c1::Azlant}} and {{c2::Thassilon}}		Lore
+5]s0C	PF2E Cloze	Pathfinder_2	Pathfinder: why did orcs first emerge in the surface world? {{c1::they were fleeing dwarves who were coming p to the surface for the first time}}		Lore
+/}-5B	PF2E Cloze	Pathfinder_2	 Absalom is ruled by {{c2::a Grand Council of 12 members}}, with the formost having the title of {{c1::Primarch}}		Lore
+@n.tP	PF2E Cloze	Pathfinder_2	 the Al's who stayed on Golarion to face Earth Fall fled underground became the {{c1::drow}}.		Lore
+44=M7	PF2E Cloze	Pathfinder_2	 those dwarves who did not participate in the quest for the sky and stayed underground are known as the {{c1::Duergar}}.		Lore
+sY!1M	PF2E Cloze	Pathfinder_2	 the offspring of mortals and angelic beings are called {{c1::Aasimars}}, {{c2::angelkin}}, or {{c3::celestials}}.		Lore
+z6TBF	PF2E Cloze	Pathfinder_2	The offspring of demons and mortals are called {{c1::Tieflings}} or {{c2::pitborn}}		Lore
+Y|-rT	PF2E Cloze	Pathfinder_2	The Pathfinder Nation which is like America and whose soldiers dress like revolutionary war soldiers is {{c1::Andoran}}.		Lore
+Sd+oT	PF2E Cloze	Pathfinder_2	Andoran gained its independence by rebelling against {{c1::Chiliax}}		Lore
+UVc}E	PF2E Cloze	Pathfinder_2	 the kingdom of {{c2::the orcs}} is called the {{c1::Hold of Belkzen}}		Lore
+0oP85	PF2E Cloze	Pathfinder_2	 halfling slaves in Chiliax are called {{c1::slips}}		Lore
+o*dgU	PF2E Cloze	Pathfinder_2	 the greatest of the dwarfens cities is the sky citadel of {{c1::high helm}} in {{c2::the five kings mountains}}		Lore
+5Wp]4	PF2E Cloze	Pathfinder_2	 what country is always France in 1789? {{c1::Galt}}		Lore
+"#IjZI"	PF2E Cloze	Pathfinder_2	The kingdom of the undead is called {{c1::Geb}}		Lore
+ms[zE	PF2E Cloze	Pathfinder_2	The land of eternal winter is known as {{c2::Irrisen}}.  it is ruled by the daughters of {{c1::Baba Yaga}}		Lore
+]<b]T	PF2E Cloze	Pathfinder_2	 what is the island nation that is full of genies and monasteries: {{c1::Jalmeray}}		Lore
+%z7rQ	PF2E Cloze	Pathfinder_2	 the nation which is the Babylon-like center of trade, including trade drugs and slaves, is {{c1::Katapesh}}		Lore
+V($BM	PF2E Cloze	Pathfinder_2	Pathfinder: kingdom of the elves = {{c1::Kyonin}}		Lore
+O!`Z	PF2E Cloze	Pathfinder_2	Pathfinder: nation charged with keeping watch on magical prison of {{c1::the whispering tyrant}} and against orcs of {{c2::Belzken}} is {{c3::Lastwall}}.		Lore
+:S)}G	PF2E Cloze	Pathfinder_2	 the nation of Vikings is {{c1::the land of the linnorm kings}}		Lore
+0g5RR	PF2E Cloze	Pathfinder_2	 the land that is frozen and full of prehistoric creatures is the {{c1::realm of the Mammoth Lords}}		Lore
+z@zM4	PF2E Cloze	Pathfinder_2	 the land between {{c2::Nex}} and {{c2::Geb}} where magic mostly does not work is the {{c1::Mana Wastes}}		Lore
+jL*LD	PF2E Cloze	Pathfinder_2	 the island ruled by the {{c2::red mantis assassins}} is {{c1::the Mediogalti Island}}		Lore
+/40HF	PF2E Cloze	Pathfinder_2	The nation of {{c2::crusaders}} adjacent to {{c3::the world wound}} is {{c1::Mendev}}		Lore
+3,+s4	PF2E Cloze	Pathfinder_2	 the country which worships {{c2::Zon-Kuthon}} is {{c1::Nidal}}		Lore
+Q<GvJ	PF2E Cloze	Pathfinder_2	 what is the country {{c2::formed by a rebellion of guerilla fighters from the forest against Molthune}}? {{c1::Nirmathas}}		Lore
+2Op+5	PF2E Cloze	Pathfinder_2	An Pathfinder, the land with robots and records of a starship is {{c1::Numeria}}		Lore
+<KW]Q	PF2E Cloze	Pathfinder_2	The land that {{c2::is like Egypt}} is {{c1::Osirion}}		Lore
+A`a]T	PF2E Cloze	Pathfinder_2	 {{c1::atheist-land}} is {{c2::Rahadoum}}		Lore
+[G1{7	PF2E Cloze	Pathfinder_2	 the land {{c2::led by a bogus God}} is {{c1::Razmiran}}.		Lore::Gods
+1eW9L	PF2E Cloze	Pathfinder_2	The land of {{c2::pirates}} is called {{c1::The shackles}}		Lore
+,G9aF	PF2E Cloze	Pathfinder_2	The lands {{c2::inundated by the Eye of abendigo}} are called {{c1::the sodden lands}}		Lore
+ZB1~	PF2E Cloze	Pathfinder_2	 what is the name {{c2::of the decaying empire}} ? {{c1::taldor}}		Lore
+$hclL	PF2E Cloze	Pathfinder_2	 {{c1::Thuvia}} is the land {{c2::which produces Sun Orchid Elixir ( for life extension) }}		Lore
+T~kDD	PF2E Cloze	Pathfinder_2	 {{c2::vampire}} land is {{c1::ustalav}}		Lore
+sAj65	PF2E Cloze	Pathfinder_2	The largest city in Varisia, which hopes to be reabsorbed by Chiliax, is {{c1::Korvosa}}		Lore
+0+rnB	PF2E Cloze	Pathfinder_2	The second largest city in Varisia is {{c1::Magnimar}}		Lore
+:L6jQ	PF2E Cloze	Pathfinder_2	 the third largest city in Varisia, which is dominated by criminals, is {{c1::Riddleport}}		Lore
+D<W3C	PF2E Cloze	Pathfinder_2	 {{c2::Abadar}} makes his will known to his faithful through {{c1::sudden windfalls of Cash}}		Lore
+eB8ZQ	PF2E Cloze	Pathfinder_2	 Cayden Cailean's places of worship are typically {{c1::ale houses with a shrine above the bar.}}		Lore
+l~lSB	PF2E Cloze	Pathfinder_2	 Cayden Cailean's holy text is {{c1::the Placard of Wisdom, condensing divine philosophy into a few short phrases suitable for hanging on the wall.}}		Lore
+vO,X	PF2E Cloze	Pathfinder_2	 the holy text of Desna is {{c1::the 8 Scrolls}}		Lore::Gods
+paD$8	PF2E Cloze	Pathfinder_2	In Black Angel when taking the commander ships actually, if you want a new ship, take one of your robots from {{c1::the break room of the black angel}} and place it in the cockpit of a ship from {{c1::your storage area.}}		Lore::Gods
+kA+5oMKI8-	PF2E Cloze	Pathfinder_2	<div>Noisy (armor trait, post-errata 1):&nbsp;{{c1::</div><div>The armor’s check penalty</div><div>applies to Stealth checks even if you meet the required</div><div>Strength score.}}</div>		Rule
+z^lYh~%ZZQ	PF2E Cloze	Pathfinder_2	The first {{c1::2}} bulk of items in a backpack don't count towards your character's bulk limit.		Rule
